@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-10T15:57:37.560Z",
- "aiAt": null,
+ "updatedAt": "2026-11-10T16:00:50.338Z",
+ "aiAt": "2026-11-10T16:00:50.338Z",
  "sources": [
   {
    "name": "Meetup",
@@ -17,6 +17,11 @@
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
+  },
+  {
+   "name": "AI hledání",
+   "ok": true,
+   "count": 3
   }
  ],
  "events": [
@@ -41,7 +46,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "GenAI Community – Codeforce Edition (Virtual)",
@@ -61,7 +66,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Pozvánka na 5. setkání Embedded AI komunity v Brně ",
@@ -84,7 +89,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "UX Tuesday: Prototyping in the Age of AI: Is that fake or real?",
@@ -107,7 +112,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Workshop UCP26: Microsoft Agent Framework with .NET with Rodrigo Díaz Concha",
@@ -130,7 +135,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Leading AI Transformation: People, Culture & Strategy",
@@ -150,7 +155,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI",
@@ -173,7 +178,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 5) - Discriminative (Jev/DiffusionGemma) models",
@@ -193,7 +198,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Nov 11 - AI, ML and Computer Vision Meetup",
@@ -213,7 +218,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Praha [🍺 a ☕️Lajka]: Nowwwinky, Generative UI, vibe coding a hry u piva",
@@ -236,7 +241,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -256,7 +261,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Webinar: The Companies That Survive AI  May Not Be the Ones With the Best AI",
@@ -276,7 +281,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "AI 4 DEV — 11/2026 @ Brno",
@@ -299,7 +304,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "WUD Austria 2026: Designing a Sustainable Future with Ethical AI",
@@ -319,7 +324,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "AI Business Roundtable: Jak dostat AI do každodenního provozu firmy",
@@ -358,7 +363,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Production AI Agents for Generative Media: Course Launch",
@@ -378,7 +383,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Practical AI for Freelancers & Small Businesses",
@@ -398,7 +403,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
@@ -418,7 +423,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -442,7 +447,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "AI ROI by Business Unit: FinOps for AI Platforms",
@@ -462,7 +467,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -482,7 +487,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -502,7 +507,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -524,7 +529,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -544,7 +549,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Marketingdaten mit AI nutzen || FREE Community Training",
@@ -564,7 +569,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "AI Leadership: How to protect, enable and connect your team",
@@ -604,7 +609,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -627,7 +632,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -647,7 +652,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -670,7 +675,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:57:37.560Z"
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -690,6 +695,60 @@
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
    "lastSeen": "2026-11-10T14:51:37.845Z"
+  },
+  {
+   "title": "PyData Global 2026",
+   "start": "2026-12-09",
+   "end": "2026-12-10",
+   "allDay": true,
+   "online": true,
+   "type": "konference",
+   "url": "https://pydata.org/global2026/",
+   "organizer": "PyData / NumFOCUS",
+   "description": "Dvoudenní virtuální komunitní konference pro datové vědce, datové inženýry a vývojáře datových nástrojů. Program tvoří keynotes, přednášky a lightning talks.",
+   "source": "AI hledání",
+   "id": "347878e8ce",
+   "region": "online",
+   "firstSeen": "2026-11-10T16:00:50.338Z",
+   "lastSeen": "2026-11-10T16:00:50.338Z"
+  },
+  {
+   "title": "HIPTHER AI Summit Prague 2027",
+   "start": "2027-03-25",
+   "allDay": true,
+   "online": false,
+   "city": "Praha",
+   "type": "summit",
+   "url": "https://hipther.com/events/prague/",
+   "organizer": "HIPTHER",
+   "description": "Jednodenní summit jen o AI a kyberbezpečnosti se dvěma stage, soutěží startupů a kurzy Academy. Koná se hned po HIPTHER Prague Summit (23.–24. 3.).",
+   "source": "AI hledání",
+   "id": "9d708f321f",
+   "region": "praha",
+   "firstSeen": "2026-11-10T16:00:50.338Z",
+   "lastSeen": "2026-11-10T16:00:50.338Z"
+  },
+  {
+   "title": "Machine Learning Prague 2027",
+   "start": "2027-05-03",
+   "end": "2027-05-05",
+   "allDay": true,
+   "online": false,
+   "city": "Praha",
+   "venue": "O2 Universum",
+   "type": "konference",
+   "url": "https://www.mlprague.com/",
+   "organizer": "Machine Learning Prague s.r.o.",
+   "description": "12. ročník mezinárodní praktické konference o strojovém učení a AI: první den workshopy, pak dva konferenční dny s asi 45 řečníky. Konference je hybridní, workshopy jen prezenčně.",
+   "price": {
+    "free": false,
+    "text": "7 200 Kč bez DPH (8 712 Kč s DPH), konference + workshopy"
+   },
+   "source": "AI hledání",
+   "id": "19805d84b5",
+   "region": "praha",
+   "firstSeen": "2026-11-10T16:00:50.338Z",
+   "lastSeen": "2026-11-10T16:00:50.338Z"
   }
  ]
 }
