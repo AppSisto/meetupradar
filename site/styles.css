@@ -230,3 +230,55 @@ textarea:focus { border-color: var(--mute); }
 .foot { display: flex; flex-wrap: wrap; gap: 6px 20px; justify-content: space-between; margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--line); font: 11px/1.5 var(--mono); color: var(--mute); }
 #toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); translate: -50% 0; z-index: 50; padding: 12px 18px; background: var(--text); color: var(--bg); border-radius: 999px; font-weight: 500; font-size: 14px; max-width: calc(100% - 32px); }
 #toast[hidden] { display: none; }
+
+/* ---------- prohlídka ---------- */
+.help { width: 34px; height: 34px; flex-shrink: 0; border: 1px solid var(--line); border-radius: 50%; font: 600 13px/1 var(--mono); }
+.help:hover { border-color: var(--text); }
+.tour { position: fixed; inset: 0; z-index: 100; }
+.tour-block { position: absolute; inset: 0; }
+.tour-hole {
+  position: absolute; border-radius: 16px; pointer-events: none;
+  box-shadow: 0 0 0 3px var(--acc), 0 0 0 200vmax rgb(0 0 0 / .8);
+  transition: top .38s cubic-bezier(.2, .8, .2, 1), left .38s cubic-bezier(.2, .8, .2, 1), width .38s cubic-bezier(.2, .8, .2, 1), height .38s cubic-bezier(.2, .8, .2, 1);
+}
+.tour-hole.off { box-shadow: 0 0 0 200vmax rgb(0 0 0 / .8); }
+.tour-card {
+  position: absolute; top: 0; left: 0; width: 400px; max-width: calc(100vw - 24px); padding: 20px;
+  background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 20px;
+  box-shadow: 0 24px 60px rgb(0 0 0 / .5); outline: none;
+  transition: transform .38s cubic-bezier(.2, .8, .2, 1);
+}
+.tour-card > * { opacity: 0; translate: 0 8px; }
+.tour-card.in > * { opacity: 1; translate: 0; transition: opacity .25s .12s, translate .25s .12s; }
+.tour-head { display: flex; align-items: center; justify-content: space-between; }
+.tour-count { font: 12px/1 var(--mono); color: var(--mute); letter-spacing: .08em; }
+.tour-count b { font-size: 22px; color: var(--text); letter-spacing: -.02em; }
+.tour-skip { font: 600 11px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--mute); padding: 8px 0 8px 12px; }
+.tour-skip:hover { color: var(--text); }
+.tour-bar { display: flex; gap: 4px; margin: 14px 0 18px; }
+.tour-bar i { flex: 1; height: 3px; border-radius: 2px; background: var(--line); }
+.tour-bar i.on { background: var(--acc); }
+@media (prefers-color-scheme: light) { .tour-bar i.on { background: var(--text); } }
+.tour-kicker { margin: 0 0 8px; font: 600 11px/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--mute); }
+.tour-card h2 { margin: 0 0 10px; font-size: clamp(26px, 6.5vw, 34px); line-height: 1; letter-spacing: -.035em; text-wrap: balance; }
+.tour-text { margin: 0; font-size: 16px; color: var(--mute); text-wrap: pretty; }
+.tour-demo { display: grid; gap: 8px; margin-top: 14px; padding: 12px; background: var(--bg); border: 1px solid var(--line); border-radius: 12px; }
+.tour-demo-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 14px; }
+.tour-demo-row span { width: 84px; font: 10.5px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--mute); }
+.tour-demo-row.stack span { width: 100%; margin-bottom: 2px; }
+.tour-demo-row i { font-style: normal; font-size: 13px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 8px; }
+.tour-demo-row i.on { background: var(--acc); border-color: var(--acc); color: var(--acc-ink); font-weight: 500; }
+.tour-demo kbd { font: 600 12px var(--mono); padding: 3px 8px; border: 1px solid var(--mute); border-radius: 6px; }
+.tour-legend i { width: 14px; height: 14px; padding: 0; border-radius: 4px; border: 0; background: var(--panel-2); margin-left: 8px; }
+.tour-legend i:first-child { margin-left: 0; }
+.tour-legend .lp { background: var(--acc); }
+.tour-legend .lo { background: none; border: 1px dashed var(--mute); }
+.tour-nav { display: flex; gap: 8px; margin-top: 18px; }
+.tour-nav button { padding: 14px 16px; border-radius: 12px; font-weight: 700; }
+.tour-nav [hidden] { display: none; }
+.tour-back { border: 1px solid var(--line); }
+.tour-back:hover { border-color: var(--text); }
+.tour-next { flex: 1; background: var(--acc); color: var(--acc-ink); }
+@media (prefers-reduced-motion: reduce) {
+  .tour-hole, .tour-card, .tour-card.in > * { transition: none; }
+}

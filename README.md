@@ -13,6 +13,7 @@ PWA, která hlídá AI meetupy, konference, summity a další akce v Praze, dal�
 - Export do kalendáře (.ics u akce i celý výběr) a odběr feedů `data/vse.ics`, `praha.ics`, `cesko.ics`, `online.ics`.
 - Sdílení akce nebo aktuálního výběru odkazem (stav je v `#hash`).
 - Instalace jako aplikace, funguje offline nad posledními daty.
+- Prohlídka v 10 krocích: spustí se při první návštěvě, znovu tlačítkem `?` v hlavičce.
 
 Štítky, stav a poznámky se ukládají do `localStorage`, tedy jen v daném zařízení.
 

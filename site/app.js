@@ -1,4 +1,5 @@
 import { toICS } from './ics.js';
+import { startTour } from './tour.js';
 
 const TZ = 'Europe/Prague';
 const SYNC_UTC_HOURS = [5, 9, 13, 17]; // musí odpovídat cronu v .github/workflows/sync.yml
@@ -530,6 +531,17 @@ $('#btn-share').addEventListener('click', () => {
   share({ title: 'Meetup Radar', text: 'AI akce na radaru', url: location.href });
 });
 
+// ---------- prohlídka ----------
+
+const tourApp = {
+  setView(v) {
+    state.view = v;
+    render();
+  },
+};
+const runTour = () => startTour(tourApp, { onDone: () => store.set('mr.tour', 1) });
+$('#btn-tour').addEventListener('click', runTour);
+
 // ---------- data ----------
 
 let lastFetch = 0;
@@ -562,3 +574,4 @@ if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catc
 const deepLink = readHash();
 await load();
 if (deepLink) openDetail(deepLink);
+else if (!store.get('mr.tour', 0) && data.updatedAt) runTour();

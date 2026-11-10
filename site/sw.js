@@ -1,7 +1,7 @@
 // Service worker: síť má přednost (data i appka jsou vždy čerstvé), cache slouží jako offline záloha.
 
-const CACHE = 'meetupradar-v1';
-const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'ics.js', 'manifest.webmanifest', 'icons/icon.svg', 'data/events.json'];
+const CACHE = 'meetupradar-v2';
+const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'ics.js', 'tour.js', 'manifest.webmanifest', 'icons/icon.svg', 'data/events.json'];
 
 self.addEventListener('install', (ev) => {
   ev.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
