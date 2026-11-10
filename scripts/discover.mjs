@@ -39,12 +39,8 @@ export async function discover({ today, known }) {
       fallbacks: 'default',
       output_config: { effort: 'medium' },
       tools: [
-        {
-          type: 'web_search_20260209',
-          name: 'web_search',
-          max_uses: MAX_SEARCHES,
-          user_location: { type: 'approximate', city: 'Prague', country: 'CZ', timezone: 'Europe/Prague' },
-        },
+        // Bez user_location: web search kód země CZ nepodporuje, lokalitu určuje prompt.
+        { type: 'web_search_20260209', name: 'web_search', max_uses: MAX_SEARCHES },
       ],
       messages: assistant.length ? [user, { role: 'assistant', content: assistant }] : [user],
     });
