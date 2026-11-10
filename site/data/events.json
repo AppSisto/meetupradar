@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-10T16:27:16.763Z",
+ "updatedAt": "2026-11-10T22:15:56.881Z",
  "aiAt": "2026-11-10T16:00:50.338Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 126
+   "count": 112
   },
   {
    "name": "Luma",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "name": "Eventbrite",
@@ -130,7 +130,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Leading AI Transformation: People, Culture & Strategy",
@@ -140,7 +140,7 @@
    "type": "meetup",
    "url": "https://www.meetup.com/baig-academy-of-ai/events/317191911/",
    "organizer": "Baig Academy of AI",
-   "description": "What you'll learn Spot Why AI Initiatives Fail Identify why AI projects fail when workflows, team roles, and organizational changes are overlooked. Redesign Work for People and AI Identify tasks to automate, where human judgment matters, and which performance measures need to change as work evolves. Lead Teams Through AI-Driven Change Address employee concerns, build trust, and help managers guide teams through…",
+   "description": "What you'll learn Plan AI Leadership & Machine Delegation Transition from micromanagement to outcome orchestration; core discipline for steering hybrid human-machine teams. Cognitive Ergonomics & Wellbeing Prevent the \"efficiency trap\", digital burnout. Reclaim weekly bandwidth with AI as a cognitive shock absorber. Synthetic Teaming & Agent Dynamics AI agents as active collaborators - define accountability,…",
    "image": "https://secure.meetupstatic.com/photos/event/9/d/7/2/highres_536860306.jpeg",
    "price": {
     "free": true
@@ -150,7 +150,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI",
@@ -173,7 +173,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 5) - Discriminative (Jev/DiffusionGemma) models",
@@ -193,7 +193,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Nov 11 - AI, ML and Computer Vision Meetup",
@@ -213,7 +213,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Praha [🍺 a ☕️Lajka]: Nowwwinky, Generative UI, vibe coding a hry u piva",
@@ -236,7 +236,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -256,7 +256,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Webinar: The Companies That Survive AI  May Not Be the Ones With the Best AI",
@@ -276,7 +276,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "AI 4 DEV — 11/2026 @ Brno",
@@ -299,7 +299,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "WUD Austria 2026: Designing a Sustainable Future with Ethical AI",
@@ -319,7 +319,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "AI Business Roundtable: Jak dostat AI do každodenního provozu firmy",
@@ -358,7 +358,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Production AI Agents for Generative Media: Course Launch",
@@ -378,7 +378,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Practical AI for Freelancers & Small Businesses",
@@ -398,7 +398,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
@@ -418,7 +418,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -442,7 +442,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "AI ROI by Business Unit: FinOps for AI Platforms",
@@ -462,7 +462,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -482,7 +482,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -502,7 +502,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -524,7 +524,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -544,7 +544,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Marketingdaten mit AI nutzen || FREE Community Training",
@@ -564,7 +564,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "AI Leadership: How to protect, enable and connect your team",
@@ -584,7 +584,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T15:33:48.452Z",
-   "lastSeen": "2026-11-10T15:33:48.452Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -604,7 +604,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -627,7 +627,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -647,7 +647,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -670,7 +670,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T16:27:16.763Z"
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -692,6 +692,30 @@
    "lastSeen": "2026-11-10T14:51:37.845Z"
   },
   {
+   "title": "Agentic Development",
+   "start": "2026-12-02T17:00:00.000Z",
+   "end": "2026-12-02T21:00:00.000Z",
+   "online": false,
+   "city": "Praha",
+   "venue": "Apify",
+   "address": "Apify, Na Příkopě 959/27, Staré Město, 110 00 Praha-Praha 1, Česko",
+   "type": "akce",
+   "url": "https://lu.ma/2eb30aiv",
+   "organizer": "ROUVY",
+   "description": "ROUVY is the world's leading realistic indoor cycling platform. It allows athletes to exercise, compete, ride with friends for fun, and much more.",
+   "image": "https://images.lumacdn.com/uploads/0r/f1a71050-a8a5-4bc5-bcfc-57178f9605f3.png",
+   "price": {
+    "free": true
+   },
+   "soldOut": false,
+   "source": "Luma",
+   "id": "8452189ea8",
+   "allDay": false,
+   "region": "praha",
+   "firstSeen": "2026-11-10T22:15:56.881Z",
+   "lastSeen": "2026-11-10T22:15:56.881Z"
+  },
+  {
    "title": "PyData Global 2026",
    "start": "2026-12-09",
    "end": "2026-12-10",
@@ -706,6 +730,27 @@
    "region": "online",
    "firstSeen": "2026-11-10T16:00:50.338Z",
    "lastSeen": "2026-11-10T16:00:50.338Z"
+  },
+  {
+   "title": "Building Local and Serverless LLM Agents: airhacks.live",
+   "start": "2026-12-15T10:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/airhacks/events/315455965/",
+   "organizer": "airhacks",
+   "description": "Join Adam Bien (linkedin.com/in/adam-bien) for a hands-on workshop for a hands-on workshop on turning ideas into production-ready Java code with LLMs and agents. Learn how to go from ideas to structured specs, and specs to deployable, consistently structured Java code grounded in best practices. Accelerated and incrementally refined at every step by LLMs and agents. Learn how to (checkout full agenda:…",
+   "image": "https://secure.meetupstatic.com/photos/event/f/c/6/highres_534964038.jpeg",
+   "price": {
+    "free": false,
+    "text": "238 EUR"
+   },
+   "source": "Meetup",
+   "id": "eed363160d",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-10T22:15:56.881Z",
+   "lastSeen": "2026-11-10T22:15:56.881Z"
   },
   {
    "title": "HIPTHER AI Summit Prague 2027",
