@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:db4ad52726@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:GenAI Community – Codeforce Edition (Virtual)
@@ -25,7 +25,7 @@ URL:https://www.meetup.com/ai-austria/events/316948811/
 END:VEVENT
 BEGIN:VEVENT
 UID:62d2a1a466@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261111T160000Z
 DTEND:20261111T180000Z
 SUMMARY:Leading AI Transformation: People\, Culture & Strategy
@@ -41,7 +41,7 @@ URL:https://www.meetup.com/baig-academy-of-ai/events/317191911/
 END:VEVENT
 BEGIN:VEVENT
 UID:174432616f@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:Google AI Deep Dive (Ep 5) - Discriminative (Jev/DiffusionGemma) 
@@ -58,7 +58,7 @@ URL:https://www.meetup.com/vienna-ai/events/317104140/
 END:VEVENT
 BEGIN:VEVENT
 UID:d2a461d718@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:Nov 11 - AI\, ML and Computer Vision Meetup
@@ -76,7 +76,7 @@ URL:https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision
 END:VEVENT
 BEGIN:VEVENT
 UID:59f52ac49d@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261111T180000Z
 DTEND:20261111T200000Z
 SUMMARY:From Chatbots to Agents and Beyond: What's Next for AI?
@@ -94,7 +94,7 @@ URL:https://www.meetup.com/ai-builders-curious-minds-central-europe/event
 END:VEVENT
 BEGIN:VEVENT
 UID:c9f207c74d@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261112T090000Z
 DTEND:20261112T110000Z
 SUMMARY:Webinar: The Companies That Survive AI  May Not Be the Ones With 
@@ -111,7 +111,7 @@ URL:https://www.meetup.com/codenow/events/317309800/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f5d51866@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:WUD Austria 2026: Designing a Sustainable Future with Ethical AI
@@ -127,7 +127,7 @@ URL:https://www.meetup.com/uxvienna/events/317318868/
 END:VEVENT
 BEGIN:VEVENT
 UID:9cabca5de4@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261114T090000Z
 DTEND:20261114T110000Z
 SUMMARY:Build & Learn: From Data Science to AI Engineering Week 7(ONLINE 
@@ -146,7 +146,7 @@ URL:https://www.meetup.com/build-learn-data-science-saturdays/events/3166
 END:VEVENT
 BEGIN:VEVENT
 UID:3198da9be5@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261116T160000Z
 DTEND:20261116T180000Z
 SUMMARY:Production AI Agents for Generative Media: Course Launch
@@ -163,7 +163,7 @@ URL:https://www.meetup.com/berlin-datatalks-club/events/317190714/
 END:VEVENT
 BEGIN:VEVENT
 UID:bb1b190caf@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261116T200000Z
 DTEND:20261116T220000Z
 SUMMARY:Practical AI for Freelancers & Small Businesses
@@ -181,7 +181,7 @@ URL:https://www.meetup.com/vienna-growth-success-network/events/317359965
 END:VEVENT
 BEGIN:VEVENT
 UID:290111af83@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261118T160000Z
 DTEND:20261118T180000Z
 SUMMARY:Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet
@@ -197,7 +197,7 @@ URL:https://www.meetup.com/ac-muc/events/317102325/
 END:VEVENT
 BEGIN:VEVENT
 UID:e83970a4ea@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261119T160000Z
 DTEND:20261119T180000Z
 SUMMARY:AI ROI by Business Unit: FinOps for AI Platforms
@@ -213,7 +213,7 @@ URL:https://www.meetup.com/kong-vienna/events/317360650/
 END:VEVENT
 BEGIN:VEVENT
 UID:d95d77b0b3@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:Build AI Agents That Run Your Daily Operations
@@ -229,7 +229,7 @@ URL:https://www.meetup.com/baig-academy-of-ai/events/317187066/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a8957855@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data
@@ -247,7 +247,7 @@ URL:https://www.meetup.com/munchen-ai-machine-learning-and-computer-visio
 END:VEVENT
 BEGIN:VEVENT
 UID:66b20342d7@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:AI for Work: Build Your Own AI-Powered CRM
@@ -264,7 +264,7 @@ URL:https://www.meetup.com/berlin-data-science-odsc/events/317062260/
 END:VEVENT
 BEGIN:VEVENT
 UID:acb93381fd@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261120T090000Z
 DTEND:20261120T110000Z
 SUMMARY:Marketingdaten mit AI nutzen || FREE Community Training
@@ -280,8 +280,26 @@ DESCRIPTION:ANMELDUNG unter: https://analytics-pioneers.de/community-trai
 URL:https://www.meetup.com/analytics-pioneers-wien/events/317173380/
 END:VEVENT
 BEGIN:VEVENT
+UID:292f7716c3@meetupradar
+DTSTAMP:20261110T153400Z
+DTSTART:20261125T113000Z
+DTEND:20261125T133000Z
+SUMMARY:AI Leadership: How to protect\, enable and connect your team
+LOCATION:Online
+DESCRIPTION:🤔 How do you lead in the era of AI? Does leadership need t
+ o adapt\, and if so\, how? 💁 This is not about AI adoption or AI augm
+ ented leadership. Not because that isn't important\, but because we foun
+ d something else missing from discussions: 🤐 We don't talk enough abo
+ ut the bigger picture: AI leadership as a kind of leadership that create
+ s the conditions for everyone to successfully navigate constant and prof
+ ound…\n\nhttps://www.meetup.com/love-your-team-leadership-skills-for-t
+ he-real-world/events/317297312/
+URL:https://www.meetup.com/love-your-team-leadership-skills-for-the-real-
+ world/events/317297312/
+END:VEVENT
+BEGIN:VEVENT
 UID:9dbbbb3dbe@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SUMMARY:From Legacy System to Any Cloud Data Platform using AI Agents
@@ -297,7 +315,7 @@ URL:https://www.meetup.com/warsaw-enterprise-ai/events/317284202/
 END:VEVENT
 BEGIN:VEVENT
 UID:67f1403788@meetupradar
-DTSTAMP:20261110T152800Z
+DTSTAMP:20261110T153400Z
 DTSTART:20261126T120000Z
 DTEND:20261126T140000Z
 SUMMARY:Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyber

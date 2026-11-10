@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T15:27:14.006Z",
+ "updatedAt": "2026-11-10T15:33:48.452Z",
  "aiAt": null,
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 126
+   "count": 128
   },
   {
    "name": "Luma",
@@ -17,12 +17,6 @@
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
-  },
-  {
-   "name": "AI hledání",
-   "ok": false,
-   "count": 0,
-   "error": "400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"tools.0.web_search_20260209: Country code CZ is not supported.\"},\"request_id\":\"req_011CguV1Rq3fc2wXqk8KEoDj\"}"
   }
  ],
  "events": [
@@ -47,7 +41,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "GenAI Community – Codeforce Edition (Virtual)",
@@ -67,7 +61,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Pozvánka na 5. setkání Embedded AI komunity v Brně ",
@@ -90,7 +84,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "UX Tuesday: Prototyping in the Age of AI: Is that fake or real?",
@@ -113,7 +107,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Workshop UCP26: Microsoft Agent Framework with .NET with Rodrigo Díaz Concha",
@@ -136,7 +130,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Leading AI Transformation: People, Culture & Strategy",
@@ -156,7 +150,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI",
@@ -179,7 +173,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 5) - Discriminative (Jev/DiffusionGemma) models",
@@ -199,7 +193,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Nov 11 - AI, ML and Computer Vision Meetup",
@@ -219,7 +213,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Praha [🍺 a ☕️Lajka]: Nowwwinky, Generative UI, vibe coding a hry u piva",
@@ -242,7 +236,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -262,7 +256,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Webinar: The Companies That Survive AI  May Not Be the Ones With the Best AI",
@@ -282,7 +276,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "AI 4 DEV — 11/2026 @ Brno",
@@ -305,7 +299,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "WUD Austria 2026: Designing a Sustainable Future with Ethical AI",
@@ -325,7 +319,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "AI Business Roundtable: Jak dostat AI do každodenního provozu firmy",
@@ -364,7 +358,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Production AI Agents for Generative Media: Course Launch",
@@ -384,7 +378,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Practical AI for Freelancers & Small Businesses",
@@ -404,7 +398,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
@@ -424,7 +418,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -448,7 +442,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "AI ROI by Business Unit: FinOps for AI Platforms",
@@ -468,7 +462,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -488,7 +482,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -508,7 +502,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -530,7 +524,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -550,7 +544,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Marketingdaten mit AI nutzen || FREE Community Training",
@@ -570,7 +564,27 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
+  },
+  {
+   "title": "AI Leadership: How to protect, enable and connect your team",
+   "start": "2026-11-25T12:30:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/love-your-team-leadership-skills-for-the-real-world/events/317297312/",
+   "organizer": "Love Your Team: Leadership Skills for the Real World",
+   "description": "🤔 How do you lead in the era of AI? Does leadership need to adapt, and if so, how? 💁 This is not about AI adoption or AI augmented leadership. Not because that isn't important, but because we found something else missing from discussions: 🤐 We don't talk enough about the bigger picture: AI leadership as a kind of leadership that creates the conditions for everyone to successfully navigate constant and profound…",
+   "image": "https://secure.meetupstatic.com/photos/event/b/e/0/9/highres_536988649.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "292f7716c3",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-10T15:33:48.452Z",
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -590,7 +604,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -613,7 +627,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -633,7 +647,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -656,7 +670,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-10T15:27:14.006Z"
+   "lastSeen": "2026-11-10T15:33:48.452Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
