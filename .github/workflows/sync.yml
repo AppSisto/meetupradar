@@ -30,7 +30,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
+      # Větev místo SHA spouštěče: běh čekající ve frontě jinak nevidí data z předchozího běhu a push selže.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-node@v4
         with:
           node-version: 20
