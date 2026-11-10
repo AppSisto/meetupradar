@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Meetup Radar – AI akce</title>
+  <meta name="description" content="AI meetupy, konference a summity v Praze, dalších městech ČR a online. Aktualizováno 4× denně.">
+  <meta name="theme-color" content="#0A0A0A" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#F1EFE8" media="(prefers-color-scheme: light)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Radar">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="./" aria-label="Meetup Radar">
+      <span class="pulse" aria-hidden="true"></span>MEETUP<b>RADAR</b>
+    </a>
+    <div class="top-actions">
+      <span class="sync" id="sync">načítám…</span>
+      <button class="ghost" id="btn-feeds" type="button">Odběr</button>
+      <button class="ghost" id="btn-share" type="button">Sdílet</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h1>AI akce<br><span>na radaru.</span></h1>
+    <dl class="stats" id="stats"></dl>
+  </section>
+
+  <section class="controls" aria-label="Filtry">
+    <label class="search">
+      <span class="sr">Hledat</span>
+      <input id="q" type="search" placeholder="Hledat název, místo, pořadatele, poznámku…" autocomplete="off" enterkeyhint="search">
+      <kbd>/</kbd>
+    </label>
+
+    <div class="bar">
+      <div class="seg" id="regions" role="tablist" aria-label="Území"></div>
+      <div class="seg" id="views" role="tablist" aria-label="Zobrazení">
+        <button type="button" data-view="list" role="tab">Seznam</button>
+        <button type="button" data-view="cal" role="tab">Kalendář</button>
+      </div>
+    </div>
+
+    <div class="chips" id="cities" hidden></div>
+    <div class="chips" id="filters"></div>
+  </section>
+
+  <div id="newbar" hidden></div>
+  <main id="view" aria-live="polite"></main>
+
+  <footer class="foot">
+    <span id="foot-sources"></span>
+    <span>Štítky, stav a poznámky se ukládají jen v tomto zařízení.</span>
+  </footer>
+
+  <dialog id="detail" aria-label="Detail akce"></dialog>
+  <dialog id="feeds" aria-label="Odběr kalendáře"></dialog>
+  <div id="toast" role="status" hidden></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

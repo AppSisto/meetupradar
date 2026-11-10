@@ -1,0 +1,536 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup Radar//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meetup Radar – všechny AI akce
+X-WR-TIMEZONE:Europe/Prague
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:b90e4ade8e@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261110T153000Z
+DTEND:20261110T173000Z
+SUMMARY:AI for Health: Jak umělá inteligence mění zdravotnictví
+LOCATION:Merck Sharp & Dohme s.r.o.\, Na Valentince 3336/4\, Smíchov\, 1
+ 50 00 Praha-Praha 5\, Czechia
+DESCRIPTION:AI for Health: Jak umělá inteligence mění zdravotnictví 
+ Umělá inteligence stále více nachází využití v diagnostice\, zdr
+ avotní péči i při zefektivňování procesů. AI for Health propojí
+  zdravotníky\, technologické inovátory a zástupce pacientů\, aby sp
+ olečně představili praktické aplikace AI\, diskutovali její příle
+ žitosti i rizika a hledali podmínky pro její odpovědné a důvěryho
+ dné využití. Akce je součástí festivalu Dny…\n\nhttps://www.meet
+ up.com/msd-it-meet-ups/events/317056873/
+URL:https://www.meetup.com/msd-it-meet-ups/events/317056873/
+END:VEVENT
+BEGIN:VEVENT
+UID:db4ad52726@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+SUMMARY:GenAI Community – Codeforce Edition (Virtual)
+LOCATION:Online
+DESCRIPTION:The Codeforce Returns: Self Advancing Context! 🧠 🛠️ H
+ ow can a new agent benefit from a correction you already made? This time
+ \, Mario Deubler joins the GenAI-Codeforce with Self Advancing Context i
+ n the Age of Agents. Every agent task can produce both useful work and a
+  tested improvement to future work. Mario will show how corrections can 
+ become durable memory and reusable methods. Fresh tasks test those lesso
+ ns…\n\nhttps://www.meetup.com/ai-austria/events/316948811/
+URL:https://www.meetup.com/ai-austria/events/316948811/
+END:VEVENT
+BEGIN:VEVENT
+UID:5d59549ab0@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+SUMMARY:Pozvánka na 5. setkání Embedded AI komunity v Brně 
+LOCATION:Tržnice Brno\, 14\, Zelný trh 250\, 602 00 Brno-střed-Brno-m
+ ěsto\, Czechia
+DESCRIPTION:Embedded AI v praxi: Bezpečnost\, doprava a vesmírné techn
+ ologie Zveme vás na další setkání Embedded AI komunity v Brně\, kt
+ eré tentokrát propojí umělou inteligenci\, kybernetickou bezpečnost
+ \, embedded vývoj a dopravní a vesmírné technologie. Setkáme se 10\
+ \. listopadu 2026 od 17:00 v prostorách Centra VUT Tržnice v Brně. Ak
+ ce se koná pod záštitou FEKT VUT a VUT Tržnice a je součástí fest
+ ivalu Dny AI 2026. Čekají vás…\n\nhttps://www.meetup.com/brno-embed
+ ded-ai-community/events/316974327/
+URL:https://www.meetup.com/brno-embedded-ai-community/events/316974327/
+END:VEVENT
+BEGIN:VEVENT
+UID:b90d8f81f8@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261110T170000Z
+DTEND:20261110T190000Z
+SUMMARY:UX Tuesday: Prototyping in the Age of AI: Is that fake or real?
+LOCATION:Solarwinds\, 6\, Holandská 873\, 639 00 Brno-střed\, Czechia
+DESCRIPTION:Prototyping in the Age of AI: Is that Fake or Real? AI can tu
+ rn ideas into working prototypes faster than ever. But speed alone doesn
+ ’t guarantee consistency\, realistic experiences\, long-term sustainab
+ ility\, or something a team can actually use. 🎤 Petra Vu (DesignOps L
+ ead\, Livesport) 🎤 Monika Höklová (DesignOps Specialist\, Livesport
+ ) In this talk\, we’ll show how AI helps us create a realistic playgro
+ und for…\n\nhttps://www.meetup.com/asociace-ux/events/317150418/
+URL:https://www.meetup.com/asociace-ux/events/317150418/
+END:VEVENT
+BEGIN:VEVENT
+UID:5b23966c0a@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T080000Z
+DTEND:20261111T100000Z
+SUMMARY:Workshop UCP26: Microsoft Agent Framework with .NET with Rodrigo 
+ Díaz Concha
+LOCATION:Clarion Congress Hotel Prague\, Freyova 945/33
+DESCRIPTION:Please note: This is a paid event. To attend\, please registe
+ r and purchase your ticket directly on our website: https://prague.updat
+ econference.net/ Go beyond the basics of the Microsoft Agent Framework a
+ nd learn how to build\, observe and deploy AI agents from scratch. Explo
+ re state and memory\, RAG\, tool calling\, MCP and more. Leave with a wo
+ rking agent and the practical knowledge to take it into your own .NET…
+ \n\nhttps://www.meetup.com/update-conference-prague/events/316675623/
+URL:https://www.meetup.com/update-conference-prague/events/316675623/
+END:VEVENT
+BEGIN:VEVENT
+UID:62d2a1a466@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T160000Z
+DTEND:20261111T180000Z
+SUMMARY:Leading AI Transformation: People\, Culture & Strategy
+LOCATION:Online
+DESCRIPTION:What you'll learn Spot Why AI Initiatives Fail Identify why A
+ I projects fail when workflows\, team roles\, and organizational changes
+  are overlooked. Redesign Work for People and AI Identify tasks to autom
+ ate\, where human judgment matters\, and which performance measures need
+  to change as work evolves. Lead Teams Through AI-Driven Change Address 
+ employee concerns\, build trust\, and help managers guide teams through
+ …\n\nhttps://www.meetup.com/baig-academy-of-ai/events/317191911/
+URL:https://www.meetup.com/baig-academy-of-ai/events/317191911/
+END:VEVENT
+BEGIN:VEVENT
+UID:08dd858bfc@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T170000Z
+DTEND:20261111T190000Z
+SUMMARY:Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI
+LOCATION:Music Lab\, Opletalova 1/1\, Brno-město\, 602 00 Brno-Brno-stř
+ ed\, Czechia
+DESCRIPTION:Klient si dnes změnu designu udělá v AI nástroji sám a f
+ irmy od vývojářů čekají něco jiného než před dvěma lety. Co s
+ e tedy ještě vyplatí učit a v čem zůstává frontendista nenahradi
+ telný? Propojíme zkušenosti z českých firem\, recruitingu a Silicon
+  Valley a probereme\, jak AI zrychluje vývoj produktů\, mění očeká
+ vání firem a přepisuje\, co znamená být „dobrý” vývojář neb
+ o specialista. Marián Hurta: Jak zůstat relevantní…\n\nhttps://www.
+ meetup.com/frontendisti/events/317146013/
+URL:https://www.meetup.com/frontendisti/events/317146013/
+END:VEVENT
+BEGIN:VEVENT
+UID:174432616f@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T170000Z
+DTEND:20261111T190000Z
+SUMMARY:Google AI Deep Dive (Ep 5) - Discriminative (Jev/DiffusionGemma) 
+ models
+LOCATION:Online
+DESCRIPTION:Important: Register on the event website to receive the joini
+ ng link. (rsvp on meetup will NOT receive anything). This is virtual eve
+ nt for our AI global community\, please double-check your local time. Ca
+ n't make it live? Register anyway to receive the webinar recording. The 
+ AI Deep Dive Series is a hands-on virtual initiative designed to empower
+  developers to architect the next generation of Agentic AI. Moving…\n\
+ nhttps://www.meetup.com/vienna-ai/events/317104140/
+URL:https://www.meetup.com/vienna-ai/events/317104140/
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a461d718@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T170000Z
+DTEND:20261111T190000Z
+SUMMARY:Nov 11 - AI\, ML and Computer Vision Meetup
+LOCATION:Online
+DESCRIPTION:Join our virtual meetup to hear talks from experts on cutting
+ -edge topics across AI\, ML\, and computer vision. Time\, Date and Locat
+ ion Nov 11\, 2026 9:00 AM - 11:00 AM PST Online. Register for the Zoom! 
+ Agentic RAG: Beyond Retrieve-and-Generate Retrieval-Augmented Generation
+  (RAG) has become the default pattern for grounding large language model
+ s in external knowledge\, but most implementations still follow a rigid
+ …\n\nhttps://www.meetup.com/berlin-ai-machine-learning-and-computer-vi
+ sion-meetup/events/316572590/
+URL:https://www.meetup.com/berlin-ai-machine-learning-and-computer-vision
+ -meetup/events/316572590/
+END:VEVENT
+BEGIN:VEVENT
+UID:794e5d92c9@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T170000Z
+DTEND:20261111T190000Z
+SUMMARY:Praha [🍺 a ☕️Lajka]: Nowwwinky\, Generative UI\, vibe codi
+ ng a hry u piva
+LOCATION:Lajka pivovar - café\, U Akademie 366/11\, 170 00 Praha 7-Buben
+ eč\, Czechia
+DESCRIPTION:Podzim je v plném proudu a my se vracíme do pivovaru Lajka.
+  Tentokrát jsme ale program trochu překopali. Méně sezení a tichéh
+ o poslouchání\, více prostoru na pivo\, lidi okolo a debaty o tom\, c
+ o hýbe webem. Talky budou kratší\, pauzy delší a mezitím pár jedn
+ oduchých her. Večerem nás provede Karolína Vyskočilová. Vezměte s
+  sebou dobrou náladu a přijďte! Budeme se scházet postupně od 18:00
+  a od 18:30 máme na programu: 📰…\n\nhttps://www.meetup.com/fronten
+ disti/events/317106674/
+URL:https://www.meetup.com/frontendisti/events/317106674/
+END:VEVENT
+BEGIN:VEVENT
+UID:59f52ac49d@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:From Chatbots to Agents and Beyond: What's Next for AI?
+LOCATION:Online
+DESCRIPTION:AI agents that can write code\, use tools\, and even operate 
+ computers on their own? And here's an even more interesting question: Wh
+ at happens when AI agents start working together\, rather than operating
+  separately? AI is evolving incredibly fast. Just a few years ago\, we w
+ ere amazed that ChatGPT could hold a conversation. Today\, AI agents can
+  build applications\, execute tasks\, and interact with real-world syste
+ ms.…\n\nhttps://www.meetup.com/ai-builders-curious-minds-central-europ
+ e/events/317161531/
+URL:https://www.meetup.com/ai-builders-curious-minds-central-europe/event
+ s/317161531/
+END:VEVENT
+BEGIN:VEVENT
+UID:c9f207c74d@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261112T090000Z
+DTEND:20261112T110000Z
+SUMMARY:Webinar: The Companies That Survive AI  May Not Be the Ones With 
+ the Best AI
+LOCATION:Online
+DESCRIPTION:Please note: Our webinar has been rescheduled to Thursday\, N
+ ovember 12\, at the same time. We apologize for the change! Details: As 
+ access to powerful AI becomes increasingly widespread\, simply having go
+ od AI will cease to be much of a differentiator. The harder question is 
+ whether an organization can actually absorb AI into the way it operates\
+ , governs technology\, makes decisions and delivers change. What we will
+ …\n\nhttps://www.meetup.com/codenow/events/317309800/
+URL:https://www.meetup.com/codenow/events/317309800/
+END:VEVENT
+BEGIN:VEVENT
+UID:03ee221907@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:AI 4 DEV — 11/2026 @ Brno
+LOCATION:Restarace U Lucerny\, Veveří 20
+DESCRIPTION:Potkáme se a dáme si dva kratší talky\, které mají za 
+ úkol hlavně otevřít diskuzi. Tohle není přednáška ve škole – 
+ je to prostor pro zvídavce\, kteří chtějí sdílet\, ptát se a poso
+ uvat se dál. Vezmi s sebou nápady\, otázky nebo jen chuť potkat dal
+ ší lidi\, kteří přemýšlejí podobně. talks: 🎤 Jak jsem automa
+ tizoval video strih - chemiX 🎤 Pi agent Srigi/Lukas Chylik Vibecoders
+  vítáni :huggin-face: MCP EVERYWHERE\n\nhttps://www.meetup.com/ai-4-de
+ v/events/317207589/
+URL:https://www.meetup.com/ai-4-dev/events/317207589/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f5d51866@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:WUD Austria 2026: Designing a Sustainable Future with Ethical AI
+LOCATION:Online
+DESCRIPTION:UX communities all over Austria come together to organize one
+  collaborative event for World Usability Day 2026. We are hosting the ev
+ ent fully remote - so you can attend from anywhere around the globe! Joi
+ n us at the World Usability Day Austria 2026! You can watch our live str
+ eam on YouTube via https://youtube.com/live/jjZ7kqgq0ts without registra
+ tion any time. To join via Zoom\, please register here:…\n\nhttps://ww
+ w.meetup.com/uxvienna/events/317318868/
+URL:https://www.meetup.com/uxvienna/events/317318868/
+END:VEVENT
+BEGIN:VEVENT
+UID:58dfef022e@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:AI Business Roundtable: Jak dostat AI do každodenního provozu f
+ irmy
+LOCATION:City Tower\, Hvězdova\, Praha 4
+DESCRIPTION:V rámci akce DNY AI pořádáme další setkání okolo kula
+ tého stolu. Debata s odborníky\, co AI use case potřebuje aby fungova
+ l v ostrém provozu.\n\nhttps://www.eventbrite.com/e/ai-business-roundta
+ ble-jak-dostat-ai-do-kazdodenniho-provozu-firmy-tickets-2002506427631
+URL:https://www.eventbrite.com/e/ai-business-roundtable-jak-dostat-ai-do-
+ kazdodenniho-provozu-firmy-tickets-2002506427631
+END:VEVENT
+BEGIN:VEVENT
+UID:9cabca5de4@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261114T090000Z
+DTEND:20261114T110000Z
+SUMMARY:Build & Learn: From Data Science to AI Engineering Week 7(ONLINE 
+ DEMO)
+LOCATION:Online
+DESCRIPTION:📅 Week 7: Demo Day This is the final event in our seven-we
+ ek AI Engineering program and we are doing it online. After building an 
+ end-to-end AI application step by step\, it’s time to share what you c
+ reated. This week\, we’ll focus on presenting our projects and reflect
+ ing on the full development journey: This is the final event in our seve
+ n-week AI Engineering program. This week is about sharing what you built
+ \,…\n\nhttps://www.meetup.com/build-learn-data-science-saturdays/event
+ s/316622518/
+URL:https://www.meetup.com/build-learn-data-science-saturdays/events/3166
+ 22518/
+END:VEVENT
+BEGIN:VEVENT
+UID:3198da9be5@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261116T160000Z
+DTEND:20261116T180000Z
+SUMMARY:Production AI Agents for Generative Media: Course Launch
+LOCATION:Online
+DESCRIPTION:The first cohort starts today - Alexey Grigorev Welcome to "P
+ roduction AI Agents for Generative Media"\, a free\, open-source\, proje
+ ct-based course from DataTalks.Club. Over 4 modules you'll build\, deplo
+ y\, evaluate\, optimize and monitor a production AI system in which agen
+ ts orchestrate GPU-powered image\, video and audio models on Nebius Serv
+ erless AI. Join the launch stream on Monday\, November 16\, 2026\, 17:00
+ -18:00…\n\nhttps://www.meetup.com/berlin-datatalks-club/events/3171907
+ 14/
+URL:https://www.meetup.com/berlin-datatalks-club/events/317190714/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1b190caf@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261116T200000Z
+DTEND:20261116T220000Z
+SUMMARY:Practical AI for Freelancers & Small Businesses
+LOCATION:Online
+DESCRIPTION:Curious about how AI tools could help you develop a useful se
+ rvice? Join this free live webinar for an educational introduction to AI
+ -assisted services. We’ll explore potential service ideas\, the custom
+ er needs they might address\, and practical considerations before gettin
+ g started. What we’ll cover Examples of services that can incorporate 
+ AI tools. How to assess whether a service idea addresses a potential…\
+ n\nhttps://www.meetup.com/vienna-growth-success-network/events/317359965
+ /
+URL:https://www.meetup.com/vienna-growth-success-network/events/317359965
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:290111af83@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261118T160000Z
+DTEND:20261118T180000Z
+SUMMARY:Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet
+LOCATION:Online
+DESCRIPTION:Join the global gathering of AI builders\, researchers\, and 
+ enthusiasts pushing the boundaries of agentic systems and multimodal int
+ elligence. Connect every month for organic networking\, 1-on-1 video cha
+ ts\, and powerful peer-to-peer exchanges across a flexible\, open chat-b
+ ased platform. Watch how it works: https://youtu.be/trmf6Gqs6FM What Is 
+ the Agentic AI Multimodal MonthlyMixer? The Agentic AI Multimodal…\n\n
+ https://www.meetup.com/ac-muc/events/317102325/
+URL:https://www.meetup.com/ac-muc/events/317102325/
+END:VEVENT
+BEGIN:VEVENT
+UID:33986de87d@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261118T160000Z
+DTEND:20261118T180000Z
+SUMMARY:Data Punkers 18: AI Agents Taking Over
+LOCATION:Shoptet\, Pod Dráhou 1637/6
+DESCRIPTION:Rádi bychom vás pozvali na další setkání naší datové
+  komunity Data Punkers\, které se tentokrát zaměří na téma jak AI 
+ agenti mění vývoj\, automatizují procesy a přebírají práci\, kte
+ rou dosud dělali lidé 🤖💻 Čeká vás večer věnovaný AI agent
+ ům v praxi — od automatizace reportingu a migrací datových systém
+ ů až po jejich zapojení do každodenního fungování firem. Žádné
+  teoretické sliby ani AI hype — jen konkrétní use…\n\nhttps://www
+ .meetup.com/data-punkers/events/317297169/
+URL:https://www.meetup.com/data-punkers/events/317297169/
+END:VEVENT
+BEGIN:VEVENT
+UID:e83970a4ea@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261119T160000Z
+DTEND:20261119T180000Z
+SUMMARY:AI ROI by Business Unit: FinOps for AI Platforms
+LOCATION:Online
+DESCRIPTION:Every business unit wants more AI. Finance wants to know what
+  each use case costs and what it returns. When LLM spend arrives as one 
+ shared bill\, neither question has a clear answer. This webinar shows ho
+ w to tie AI consumption to the teams and use cases driving it. With that
+  view\, leaders can fund what works and rethink what doesn't. We'll walk
+  through how Kong AI Gateway applies team-level token quotas and…\n\nh
+ ttps://www.meetup.com/kong-vienna/events/317360650/
+URL:https://www.meetup.com/kong-vienna/events/317360650/
+END:VEVENT
+BEGIN:VEVENT
+UID:d95d77b0b3@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261119T170000Z
+DTEND:20261119T190000Z
+SUMMARY:Build AI Agents That Run Your Daily Operations
+LOCATION:Online
+DESCRIPTION:What you'll learn Automating daily workflows Turn a repeatabl
+ e daily process into an AI workflow that handles each step with less man
+ ual intervention. Schedule AI agents to run tasks in the background Sche
+ dule AI workflows to run in the background\, handling routine tasks whil
+ e you focus on higher-value work. Put AI agents to work across your dail
+ y operations Build AI agents that work with your calendar\, meetings\,
+ …\n\nhttps://www.meetup.com/baig-academy-of-ai/events/317187066/
+URL:https://www.meetup.com/baig-academy-of-ai/events/317187066/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a8957855@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261119T170000Z
+DTEND:20261119T190000Z
+SUMMARY:Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data
+LOCATION:Online
+DESCRIPTION:This workshop is a hands-on tour of what actually breaks when
+  you load real LeRobot datasets\, and how Voxel51's native LeRobot suppo
+ rt in FiftyOne catches it. Date\, Time and Location Nov 19\, 2026 9:00 A
+ M - 10:00 AM PST Online. Register for the Zoom! Robot learning data does
+ n't look like the data that trains most vision-language models. It's tem
+ poral\, low-dimensional in the parts that matter most\,…\n\nhttps://ww
+ w.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/even
+ ts/316617463/
+URL:https://www.meetup.com/munchen-ai-machine-learning-and-computer-visio
+ n-meetup/events/316617463/
+END:VEVENT
+BEGIN:VEVENT
+UID:b85719d15f@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261119T170000Z
+DTEND:20261119T190000Z
+SUMMARY:ReactGirls & Active24 meetup
+LOCATION:Transcarent Technologies s.r.o.\, Rohanské nábř. 717/4\, 186 
+ 00 Praha 8-Karlín\, Czechia
+DESCRIPTION:Pražský frontendový meetup komunity ReactGirls. Kdy: 19\\.
+  11\\. od 18h Kde: Transcarent Technologies s.r.o.\, Rohanské nábřež
+ í 717/4\, Praha 8 - Karlín Jazyk: CZ Opět se na vás těšíme na dal
+ ším podzimním meetupu\, který jsme si pro vás připravili ve spolup
+ ráci s Active24! Tentokrát se vidíme v prostorách Transcarent a ček
+ ají na nás 3 přednášky ze světa frontendu\, AI a vývoje. Harmonog
+ ram akce: 18.00 otevíráme 18:30…\n\nhttps://www.meetup.com/reactgirl
+ s/events/316938358/
+URL:https://www.meetup.com/reactgirls/events/316938358/
+END:VEVENT
+BEGIN:VEVENT
+UID:66b20342d7@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261119T180000Z
+DTEND:20261119T200000Z
+SUMMARY:AI for Work: Build Your Own AI-Powered CRM
+LOCATION:Online
+DESCRIPTION:Pre-Registration is REQUIRED. Joining link -https://streamyar
+ d.com/watch/ZTUy3awMp3J8 What would it take to build a CRM around the wa
+ y your team actually works? Join Sheamus McGovern\, Founder of ODSC AI\,
+  for a practical walkthrough of an AI-powered CRM that brings together p
+ rospect sourcing\, company research\, qualification\, personalized outre
+ ach\, and follow-ups—with human approval at key stages. WHEN November 
+ 19 at…\n\nhttps://www.meetup.com/berlin-data-science-odsc/events/31706
+ 2260/
+URL:https://www.meetup.com/berlin-data-science-odsc/events/317062260/
+END:VEVENT
+BEGIN:VEVENT
+UID:acb93381fd@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Marketingdaten mit AI nutzen || FREE Community Training
+LOCATION:Online
+DESCRIPTION:ANMELDUNG unter: https://analytics-pioneers.de/community-trai
+ nings Inhalte: Wie lassen sich verschiedene Datenquellen mit AI verbinde
+ n? Wie lässt sich der Datenzugriff absichern und unerwartete Kosten ver
+ meiden? Was ist ein Semantic Layer und wie wird er aufgebaut? Praxisbeis
+ piel mit BigQuery-Daten aus der Google Cloud und Claude Datum: Freitag\\
+ \, 20\\.11\\.2026 \\| 10:0012:00 Uhr Trainer: Moritz Bauer mit Marcus St
+ ade…\n\nhttps://www.meetup.com/analytics-pioneers-wien/events/31717338
+ 0/
+URL:https://www.meetup.com/analytics-pioneers-wien/events/317173380/
+END:VEVENT
+BEGIN:VEVENT
+UID:9dbbbb3dbe@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261125T130000Z
+DTEND:20261125T150000Z
+SUMMARY:From Legacy System to Any Cloud Data Platform using AI Agents
+LOCATION:Online
+DESCRIPTION:The migration you shelved is now a project of months\, not ye
+ ars. Many organizations still run their most important data workloads on
+  Oracle Exadata\, Teradata\, Netezza or SAS. Moving them to BigQuery\, D
+ atabricks or Snowflake is a big opportunity\, and a big challenge. That 
+ is why so many of these migrations stay on the shelf. What makes legacy 
+ migrations hard: Documentation is missing or out of date Business logic 
+ is…\n\nhttps://www.meetup.com/warsaw-enterprise-ai/events/317284202/
+URL:https://www.meetup.com/warsaw-enterprise-ai/events/317284202/
+END:VEVENT
+BEGIN:VEVENT
+UID:fd59b7a456@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261125T173000Z
+DTEND:20261125T193000Z
+SUMMARY:AGI kontrolovaná firma: Dark Factory
+LOCATION:signageOS s.r.o.\, Evropská 11/2758\, 160 00 Praha 6\, Czechia
+DESCRIPTION:🔥 TechTalk 6 Ještě nedávno byl AI coding assistant naš
+ eptávač. Dnes agenti zvládají analýzu zadání\, návrh řešení\,
+  psaní kódu\, testování\, code review i deployment. Co se stane\, a
+ ž AI přestane být nástrojem a začneme jí předávat samotnou výro
+ bu softwaru? Vývoj se možná blíží konceptu dark factory – továr
+ ny\, která funguje téměř autonomně a člověk už nestojí u každ
+ ého kroku. Tentokrát proto nebudeme řešit\, jestli AI…\n\nhttps://
+ www.meetup.com/reset-hard/events/316733193/
+URL:https://www.meetup.com/reset-hard/events/316733193/
+END:VEVENT
+BEGIN:VEVENT
+UID:67f1403788@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261126T120000Z
+DTEND:20261126T140000Z
+SUMMARY:Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyber
+ ghs
+LOCATION:Online
+DESCRIPTION:Please note: this is a paid event. To attend\, please registe
+ r and purchase your ticket directly on our website: https://www.hypeless
+ -ai.net/ Join us on Thursday\, November 26 for Hypeless AI 4 with Johnny
+  Hooyberghs. This episode is for developers wondering how to keep up wit
+ h the pace of AI and stay relevant. Rather than overwhelming you with to
+ ols\, we’ll explore practical patterns you can start using right away 
+ -…\n\nhttps://www.meetup.com/hypeless-ai/events/317057543/
+URL:https://www.meetup.com/hypeless-ai/events/317057543/
+END:VEVENT
+BEGIN:VEVENT
+UID:81bc14aaf0@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261126T160000Z
+DTEND:20261126T180000Z
+SUMMARY:External combinators and shattering with permutations
+LOCATION:Truhlárna Karlín\, Šaldova 388/5\, 180 00 Praha 8-Karlín
+DESCRIPTION:In a nutshell\, extremal combinatorics studies how large a co
+ llection of finite objects (numbers\, vectors\, sets\, etc.) might be\, 
+ if it has to satisfy given restrictions. About a year ago when studying 
+ an extremal problem seeking a six-tuple of different orderings that inte
+ rlace in a rather peculiar way\, we have formulated and resolved a simpl
+ ified variant of the original problem. In May 2026\, this simpler varian
+ t was…\n\nhttps://www.meetup.com/miton-times/events/317267997/
+URL:https://www.meetup.com/miton-times/events/317267997/
+END:VEVENT
+BEGIN:VEVENT
+UID:176d3a6d72@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl
+ aude… ne
+LOCATION:Kavárna Trojka\, Dominikánská 9\, Brno
+DESCRIPTION:Google je v technickém SEO nečekaně shovívavý\, AI vyhle
+ dávače ale ne. Martin Štěpánek nám ukáže\, co AI opravdu vidí a
+  co ne.\n\nhttps://www.eventbrite.co.uk/e/google-v-technickem-seo-odpust
+ i-temer-vsechno-chatgpt-claude-ne-tickets-2003758476543
+URL:https://www.eventbrite.co.uk/e/google-v-technickem-seo-odpusti-temer-
+ vsechno-chatgpt-claude-ne-tickets-2003758476543
+END:VEVENT
+END:VCALENDAR

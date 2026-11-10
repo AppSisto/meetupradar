@@ -1,0 +1,24 @@
+{
+  "meetup": {
+    "locations": ["cz--Prague", "cz--Brno", "cz--Ostrava", "cz--Plzen", "cz--Olomouc"],
+    "keywords": ["AI", "umělá inteligence", "machine learning", "LLM", "AI agents"]
+  },
+  "luma": {
+    "places": ["prague"]
+  },
+  "eventbrite": {
+    "urls": [
+      "https://www.eventbrite.com/d/czech-republic--prague/ai/",
+      "https://www.eventbrite.com/d/czech-republic--brno/ai/",
+      "https://www.eventbrite.com/d/czech-republic--ostrava/ai/"
+    ]
+  },
+  "jsonld": {
+    "comment": "Libovolné stránky, které mají akce ve schema.org JSON-LD (typ Event). Stačí přidat URL.",
+    "urls": []
+  },
+  "exclude": [
+    "side hustle", "job search", "reselling", "personal brand", "get promoted", "want to promote",
+    "dating", "crypto signals", "forex"
+  ]
+}

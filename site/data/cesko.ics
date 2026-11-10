@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup Radar//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meetup Radar – další města ČR
+X-WR-TIMEZONE:Europe/Prague
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:5d59549ab0@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261110T160000Z
+DTEND:20261110T180000Z
+SUMMARY:Pozvánka na 5. setkání Embedded AI komunity v Brně 
+LOCATION:Tržnice Brno\, 14\, Zelný trh 250\, 602 00 Brno-střed-Brno-m
+ ěsto\, Czechia
+DESCRIPTION:Embedded AI v praxi: Bezpečnost\, doprava a vesmírné techn
+ ologie Zveme vás na další setkání Embedded AI komunity v Brně\, kt
+ eré tentokrát propojí umělou inteligenci\, kybernetickou bezpečnost
+ \, embedded vývoj a dopravní a vesmírné technologie. Setkáme se 10\
+ \. listopadu 2026 od 17:00 v prostorách Centra VUT Tržnice v Brně. Ak
+ ce se koná pod záštitou FEKT VUT a VUT Tržnice a je součástí fest
+ ivalu Dny AI 2026. Čekají vás…\n\nhttps://www.meetup.com/brno-embed
+ ded-ai-community/events/316974327/
+URL:https://www.meetup.com/brno-embedded-ai-community/events/316974327/
+END:VEVENT
+BEGIN:VEVENT
+UID:b90d8f81f8@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261110T170000Z
+DTEND:20261110T190000Z
+SUMMARY:UX Tuesday: Prototyping in the Age of AI: Is that fake or real?
+LOCATION:Solarwinds\, 6\, Holandská 873\, 639 00 Brno-střed\, Czechia
+DESCRIPTION:Prototyping in the Age of AI: Is that Fake or Real? AI can tu
+ rn ideas into working prototypes faster than ever. But speed alone doesn
+ ’t guarantee consistency\, realistic experiences\, long-term sustainab
+ ility\, or something a team can actually use. 🎤 Petra Vu (DesignOps L
+ ead\, Livesport) 🎤 Monika Höklová (DesignOps Specialist\, Livesport
+ ) In this talk\, we’ll show how AI helps us create a realistic playgro
+ und for…\n\nhttps://www.meetup.com/asociace-ux/events/317150418/
+URL:https://www.meetup.com/asociace-ux/events/317150418/
+END:VEVENT
+BEGIN:VEVENT
+UID:08dd858bfc@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261111T170000Z
+DTEND:20261111T190000Z
+SUMMARY:Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI
+LOCATION:Music Lab\, Opletalova 1/1\, Brno-město\, 602 00 Brno-Brno-stř
+ ed\, Czechia
+DESCRIPTION:Klient si dnes změnu designu udělá v AI nástroji sám a f
+ irmy od vývojářů čekají něco jiného než před dvěma lety. Co s
+ e tedy ještě vyplatí učit a v čem zůstává frontendista nenahradi
+ telný? Propojíme zkušenosti z českých firem\, recruitingu a Silicon
+  Valley a probereme\, jak AI zrychluje vývoj produktů\, mění očeká
+ vání firem a přepisuje\, co znamená být „dobrý” vývojář neb
+ o specialista. Marián Hurta: Jak zůstat relevantní…\n\nhttps://www.
+ meetup.com/frontendisti/events/317146013/
+URL:https://www.meetup.com/frontendisti/events/317146013/
+END:VEVENT
+BEGIN:VEVENT
+UID:03ee221907@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:AI 4 DEV — 11/2026 @ Brno
+LOCATION:Restarace U Lucerny\, Veveří 20
+DESCRIPTION:Potkáme se a dáme si dva kratší talky\, které mají za 
+ úkol hlavně otevřít diskuzi. Tohle není přednáška ve škole – 
+ je to prostor pro zvídavce\, kteří chtějí sdílet\, ptát se a poso
+ uvat se dál. Vezmi s sebou nápady\, otázky nebo jen chuť potkat dal
+ ší lidi\, kteří přemýšlejí podobně. talks: 🎤 Jak jsem automa
+ tizoval video strih - chemiX 🎤 Pi agent Srigi/Lukas Chylik Vibecoders
+  vítáni :huggin-face: MCP EVERYWHERE\n\nhttps://www.meetup.com/ai-4-de
+ v/events/317207589/
+URL:https://www.meetup.com/ai-4-dev/events/317207589/
+END:VEVENT
+BEGIN:VEVENT
+UID:176d3a6d72@meetupradar
+DTSTAMP:20261110T145200Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl
+ aude… ne
+LOCATION:Kavárna Trojka\, Dominikánská 9\, Brno
+DESCRIPTION:Google je v technickém SEO nečekaně shovívavý\, AI vyhle
+ dávače ale ne. Martin Štěpánek nám ukáže\, co AI opravdu vidí a
+  co ne.\n\nhttps://www.eventbrite.co.uk/e/google-v-technickem-seo-odpust
+ i-temer-vsechno-chatgpt-claude-ne-tickets-2003758476543
+URL:https://www.eventbrite.co.uk/e/google-v-technickem-seo-odpusti-temer-
+ vsechno-chatgpt-claude-ne-tickets-2003758476543
+END:VEVENT
+END:VCALENDAR

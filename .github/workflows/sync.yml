@@ -1,0 +1,59 @@
+name: Sync a nasazení
+
+on:
+  schedule:
+    # UTC. V zimě 6:07, 10:07, 14:07 a 18:07 pražského času (v létě o hodinu později).
+    - cron: '7 5 * * *' # ranní běh včetně AI dohledání
+    - cron: '7 9,13,17 * * *'
+  workflow_dispatch:
+    inputs:
+      ai:
+        description: Spustit i AI dohledání (Claude API)
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      - name: Sync akcí
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RADAR_AI: ${{ (github.event.schedule == '7 5 * * *' || inputs.ai == true) && '1' || '0' }}
+        run: node scripts/sync.mjs
+
+      - name: Uložit data do repozitáře
+        run: |
+          git config user.name "meetupradar-bot"
+          git config user.email "meetupradar-bot@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || git commit -m "data: sync $(date -u +%FT%H:%MZ)"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
