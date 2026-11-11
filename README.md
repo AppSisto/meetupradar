@@ -54,7 +54,18 @@ AI hledání lokálně: `ANTHROPIC_API_KEY=… npm run sync:ai`.
 2. Settings → Pages → Source: **GitHub Actions**.
 3. Settings → Secrets and variables → Actions → secret `ANTHROPIC_API_KEY` (bez něj běží jen pevné zdroje).
 
-Workflow běží v 5:07, 9:07, 13:07 a 17:07 UTC. Ranní běh spouští i AI hledání. Ručně jde spustit z Actions → „Sync a nasazení“.
+Plánované běhy workflow (5:07, 9:07, 13:07 a 17:07 UTC) jsou jen záloha: GitHub je spouští se zpožděním i několika hodin. Ručně jde workflow spustit z Actions → „Sync a nasazení“. AI hledání proběhne nejvýš jednou denně.
+
+### Hlavní sync z Macu
+
+Přesné časy zajišťuje plánovaná úloha na Macu (`launchd`), která v 6:00, 10:00, 14:00 a 18:00 spustí `scripts/local-sync.sh`: stáhne akce lokálně (včetně Eventbrite, který GitHub blokuje), pushne data a GitHub je nasadí. Při prvním běhu dne navíc na dálku spustí AI hledání na GitHubu, API klíč tak na Macu být nemusí.
+
+```bash
+scripts/install-launchd.sh            # zapnout
+scripts/install-launchd.sh --remove   # vypnout
+```
+
+Log je v `logs/local-sync.log`. Úloha běží jen na zapnutém Macu; běh zmeškaný ve spánku se dožene po probuzení.
 
 Nastavení přes proměnné prostředí: `RADAR_MODEL` (výchozí `claude-opus-5-5`), `RADAR_MAX_SEARCHES` (výchozí 15).
 

@@ -333,7 +333,10 @@ function merge(items) {
 let fresh = merge(collected);
 
 if (process.env.RADAR_AI === '1') {
-  if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
+  // Nejvýš jednou denně: AI hledání spouští Mac i záložní plán na GitHubu a platit ho dvakrát nemá smysl.
+  if (prev.aiAt && dayKey(prev.aiAt) === dayKey(nowISO)) {
+    console.log('AI hledání… přeskočeno (dnes už proběhlo)');
+  } else if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
     report.push({ name: 'AI hledání', ok: false, count: 0, error: 'chybí ANTHROPIC_API_KEY' });
     console.log('AI hledání… přeskočeno (chybí ANTHROPIC_API_KEY)');
   } else {
@@ -341,10 +344,9 @@ if (process.env.RADAR_AI === '1') {
       .filter((e) => new Date(e.end || e.start) >= now)
       .slice(0, 150)
       .map((e) => `${e.title} (${dayKey(e.start)})`);
-    const before = collected.length;
     await run('AI hledání', () => ai(known));
     fresh = merge(collected);
-    if (collected.length > before) prev.aiAt = nowISO;
+    if (report.at(-1).ok) prev.aiAt = nowISO;
   }
 }
 

@@ -2,7 +2,7 @@ import { toICS } from './ics.js';
 import { startTour } from './tour.js';
 
 const TZ = 'Europe/Prague';
-const SYNC_UTC_HOURS = [5, 9, 13, 17]; // musí odpovídat cronu v .github/workflows/sync.yml
+const SYNC_HOURS = [6, 10, 14, 18]; // pražský čas, musí odpovídat scripts/install-launchd.sh
 const REGIONS = [
   ['all', 'Vše'],
   ['praha', 'Praha'],
@@ -187,12 +187,11 @@ function renderChrome() {
 
   if (data.updatedAt) {
     const up = new Date(data.updatedAt);
-    const next = new Date();
-    const h = SYNC_UTC_HOURS.find((x) => x * 60 + 7 > next.getUTCHours() * 60 + next.getUTCMinutes());
-    next.setUTCHours(h ?? SYNC_UTC_HOURS[0] + 24, 7, 0, 0);
     const hm = { hour: '2-digit', minute: '2-digit' };
+    const [ph, pm] = fmt({ ...hm, hourCycle: 'h23' }).format(new Date()).split(':').map(Number);
+    const next = SYNC_HOURS.find((x) => x * 60 > ph * 60 + pm) ?? SYNC_HOURS[0];
     const upLabel = keyOf(up) === todayKey ? fmt(hm).format(up) : fmt({ day: 'numeric', month: 'numeric', ...hm }).format(up);
-    $('#sync').textContent = `sync ${upLabel} · další ~${fmt(hm).format(next)}`;
+    $('#sync').textContent = `sync ${upLabel} · další ~${next}:00`;
     $('#foot-sources').textContent =
       'Zdroje: ' + (data.sources || []).map((s) => `${s.name} ${s.ok ? s.count : '✕'}`).join(' · ');
   }

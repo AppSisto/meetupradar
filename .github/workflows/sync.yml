@@ -2,8 +2,9 @@ name: Sync a nasazení
 
 on:
   schedule:
-    # UTC. V zimě 6:07, 10:07, 14:07 a 18:07 pražského času (v létě o hodinu později).
-    - cron: '7 5 * * *' # ranní běh včetně AI dohledání
+    # Záloha pro dny, kdy neběží lokální sync z Macu (scripts/local-sync.sh). GitHub tyhle běhy
+    # spouští se zpožděním i několika hodin. UTC, v zimě 6:07, 10:07, 14:07 a 18:07 pražského času.
+    - cron: '7 5 * * *' # včetně AI dohledání, pokud ten den ještě neproběhlo
     - cron: '7 9,13,17 * * *'
   workflow_dispatch:
     inputs:
@@ -40,13 +41,16 @@ jobs:
           cache: npm
       - run: npm ci
 
+      # Push jen s daty (commit „data: …“ z lokálního syncu) se už znovu nesynchronizuje, jen nasadí.
       - name: Sync akcí
+        if: ${{ github.event_name != 'push' || !startsWith(github.event.head_commit.message, 'data:') }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RADAR_AI: ${{ (github.event.schedule == '7 5 * * *' || inputs.ai == true) && '1' || '0' }}
         run: node scripts/sync.mjs
 
       - name: Uložit data do repozitáře
+        if: ${{ github.event_name != 'push' || !startsWith(github.event.head_commit.message, 'data:') }}
         run: |
           git config user.name "meetupradar-bot"
           git config user.email "meetupradar-bot@users.noreply.github.com"
