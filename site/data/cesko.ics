@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:5d59549ab0@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261110T160000Z
 DTEND:20261110T180000Z
 SUMMARY:Pozvánka na 5. setkání Embedded AI komunity v Brně 
@@ -27,7 +27,7 @@ URL:https://www.meetup.com/brno-embedded-ai-community/events/316974327/
 END:VEVENT
 BEGIN:VEVENT
 UID:b90d8f81f8@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261110T170000Z
 DTEND:20261110T190000Z
 SUMMARY:UX Tuesday: Prototyping in the Age of AI: Is that fake or real?
@@ -43,7 +43,7 @@ URL:https://www.meetup.com/asociace-ux/events/317150418/
 END:VEVENT
 BEGIN:VEVENT
 UID:08dd858bfc@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI
@@ -60,8 +60,20 @@ DESCRIPTION:Klient si dnes změnu designu udělá v AI nástroji sám a f
 URL:https://www.meetup.com/frontendisti/events/317146013/
 END:VEVENT
 BEGIN:VEVENT
+UID:da4eb4b19d@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:AI automatizace a kyberbezpečnost – Česká Třebová 2026 (Dn
+ y AI)
+LOCATION:Česká Třebová
+DESCRIPTION:Regionální akce festivalu Dny AI o AI automatizaci a kybern
+ etické bezpečnosti.\n\nhttps://dny.ai/en
+URL:https://dny.ai/en
+END:VEVENT
+BEGIN:VEVENT
 UID:03ee221907@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:AI 4 DEV — 11/2026 @ Brno
@@ -77,8 +89,20 @@ DESCRIPTION:Potkáme se a dáme si dva kratší talky\, které mají za
 URL:https://www.meetup.com/ai-4-dev/events/317207589/
 END:VEVENT
 BEGIN:VEVENT
+UID:27ee9fb507@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:TechMeetup Ostrava 2026
+LOCATION:Nová aula VŠB-TUO\, Ostrava-Poruba\, Ostrava
+DESCRIPTION:Komunitní technologická konference se sedmi sekcemi včetn
+ ě AI\, DevOps\, PHP a QA.\n\nhttps://www.ostravalove.cz/techmeetup-ostr
+ ava-2026/
+URL:https://www.ostravalove.cz/techmeetup-ostrava-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:176d3a6d72@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl

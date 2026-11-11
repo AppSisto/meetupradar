@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:b90e4ade8e@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261110T153000Z
 DTEND:20261110T173000Z
 SUMMARY:AI for Health: Jak umělá inteligence mění zdravotnictví
@@ -26,8 +26,20 @@ DESCRIPTION:AI for Health: Jak umělá inteligence mění zdravotnictví
 URL:https://www.meetup.com/msd-it-meet-ups/events/317056873/
 END:VEVENT
 BEGIN:VEVENT
+UID:7cbebac7b1@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:AI a lidská práva: Kdo chrání člověka\, když rozhoduje alg
+ oritmus? (Dny AI 2026)
+LOCATION:Praha
+DESCRIPTION:Akce festivalu Dny AI o tom\, jak chránit lidská práva\, k
+ dyž rozhodují algoritmy.\n\nhttps://dny.ai/en
+URL:https://dny.ai/en
+END:VEVENT
+BEGIN:VEVENT
 UID:5b23966c0a@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261111T080000Z
 DTEND:20261111T100000Z
 SUMMARY:Workshop UCP26: Microsoft Agent Framework with .NET with Rodrigo 
@@ -44,7 +56,7 @@ URL:https://www.meetup.com/update-conference-prague/events/316675623/
 END:VEVENT
 BEGIN:VEVENT
 UID:794e5d92c9@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:Praha [🍺 a ☕️Lajka]: Nowwwinky\, Generative UI\, vibe codi
@@ -63,7 +75,7 @@ URL:https://www.meetup.com/frontendisti/events/317106674/
 END:VEVENT
 BEGIN:VEVENT
 UID:58dfef022e@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:AI Business Roundtable: Jak dostat AI do každodenního provozu f
@@ -77,8 +89,22 @@ URL:https://www.eventbrite.com/e/ai-business-roundtable-jak-dostat-ai-do-
  kazdodenniho-provozu-firmy-tickets-2002506427631
 END:VEVENT
 BEGIN:VEVENT
+UID:4c4983d518@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Interdisciplinary Hackathon by AI Tinkerers Prague × Dny.AI
+LOCATION:Praha
+DESCRIPTION:Mezioborový hackathon pro týmy 2–4 lidí\, které staví 
+ praktické AI agenty na automatizaci běžných úkolů. Probíhá v ang
+ ličtině.\n\nhttps://hackathonhub.eu/events/interdisciplinary-hackathon
+ -by-ai-tinkerers-prague-dny-ai-prague-2026
+URL:https://hackathonhub.eu/events/interdisciplinary-hackathon-by-ai-tink
+ erers-prague-dny-ai-prague-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:33986de87d@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261118T160000Z
 DTEND:20261118T180000Z
 SUMMARY:Data Punkers 18: AI Agents Taking Over
@@ -94,8 +120,19 @@ DESCRIPTION:Rádi bychom vás pozvali na další setkání naší datové
 URL:https://www.meetup.com/data-punkers/events/317297169/
 END:VEVENT
 BEGIN:VEVENT
+UID:e6e8be9c43@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART:20261119T080000Z
+DTEND:20261119T180000Z
+SUMMARY:Informace\, inteligence\, čas rozhodnutí (2. ročník)
+LOCATION:CEVRO Univerzita\, Jungmannova 17\, Praha 1\, Praha
+DESCRIPTION:Odborná konference o suverenitě a odolnosti státu v éře 
+ umělé inteligence.\n\nhttps://d2bm5ols8fc0nw.cloudfront.net/
+URL:https://d2bm5ols8fc0nw.cloudfront.net/
+END:VEVENT
+BEGIN:VEVENT
 UID:b85719d15f@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:ReactGirls & Active24 meetup
@@ -113,7 +150,7 @@ URL:https://www.meetup.com/reactgirls/events/316938358/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd59b7a456@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261125T173000Z
 DTEND:20261125T193000Z
 SUMMARY:AGI kontrolovaná firma: Dark Factory
@@ -130,7 +167,7 @@ URL:https://www.meetup.com/reset-hard/events/316733193/
 END:VEVENT
 BEGIN:VEVENT
 UID:81bc14aaf0@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261126T160000Z
 DTEND:20261126T180000Z
 SUMMARY:External combinators and shattering with permutations
@@ -145,8 +182,25 @@ DESCRIPTION:In a nutshell\, extremal combinatorics studies how large a co
 URL:https://www.meetup.com/miton-times/events/317267997/
 END:VEVENT
 BEGIN:VEVENT
+UID:e2fbbd86ed@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART:20261126T170000Z
+DTEND:20261126T190000Z
+SUMMARY:PyData Prague #37 - Trust the Age of Juniors
+LOCATION:The Flow Building\, Václavské nám. 47\, Nové Město\, 110 00
+  Praha-Praha 1\, Czechia
+DESCRIPTION:Hello Python wizards and data apprentices\, The 37th PyData m
+ eetup will take place at Apple offices (Flow Building). As usual\, the t
+ alks will start at 18:30 but we encourage you to come as soon as 18:00 t
+ o enjoy the opportunity to socialize and refresh yourselves (which you c
+ an continue doing during the break and after the talks). Our main goal i
+ s to build the community around Python and data and make it welcoming to
+ …\n\nhttps://www.meetup.com/pydata-prague/events/317314096/
+URL:https://www.meetup.com/pydata-prague/events/317314096/
+END:VEVENT
+BEGIN:VEVENT
 UID:8452189ea8@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART:20261202T170000Z
 DTEND:20261202T210000Z
 SUMMARY:Agentic Development
@@ -158,8 +212,34 @@ DESCRIPTION:ROUVY is the world's leading realistic indoor cycling platfor
 URL:https://lu.ma/2eb30aiv
 END:VEVENT
 BEGIN:VEVENT
+UID:7a75a6d6f2@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:AI Suverenita 2026
+LOCATION:Scott.Weber Workspace-PernerKarlín\, Pernerova 727/40a\, Praha 
+ 8 - Karlín\, Praha
+DESCRIPTION:Konference o technologické nezávislosti\, firemní AI infra
+ struktuře a skutečných nákladech na kontrolu nad AI. Je určená fir
+ mám a organizacím.\n\nhttps://vikendo.cz/events/ai-suverenita-2026
+URL:https://vikendo.cz/events/ai-suverenita-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2d492de7bb@meetupradar
+DTSTAMP:20261111T124100Z
+DTSTART:20261210T170000Z
+DTEND:20261210T200000Z
+SUMMARY:AI Makers / 02 — Product Strategy in a World of AI Labs
+LOCATION:Productboard s.r.o.\, Productboard s.r.o.\, Boudníkova 3\, 180 
+ 00 Praha 8-Palmovka\, Česko
+DESCRIPTION:Join the founders\, engineers\, designers\, and product leade
+ rs building the next generation of AI-native companies in Prague.\n\nhtt
+ ps://lu.ma/4i0m8d0u
+URL:https://lu.ma/4i0m8d0u
+END:VEVENT
+BEGIN:VEVENT
 UID:9d708f321f@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:HIPTHER AI Summit Prague 2027
@@ -171,7 +251,7 @@ URL:https://hipther.com/events/prague/
 END:VEVENT
 BEGIN:VEVENT
 UID:19805d84b5@meetupradar
-DTSTAMP:20261110T221600Z
+DTSTAMP:20261111T124100Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270506
 SUMMARY:Machine Learning Prague 2027
