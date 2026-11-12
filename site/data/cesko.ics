@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:08dd858bfc@meetupradar
-DTSTAMP:20261112T090100Z
+DTSTAMP:20261112T130100Z
 DTSTART:20261111T170000Z
 DTEND:20261111T190000Z
 SUMMARY:Brno [🍺]: Jak zůstat relevantní jako vývojář v éře AI
@@ -27,7 +27,7 @@ URL:https://www.meetup.com/frontendisti/events/317146013/
 END:VEVENT
 BEGIN:VEVENT
 UID:da4eb4b19d@meetupradar
-DTSTAMP:20261112T090100Z
+DTSTAMP:20261112T130100Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:AI automatizace a kyberbezpečnost – Česká Třebová 2026 (Dn
@@ -39,7 +39,7 @@ URL:https://dny.ai/en
 END:VEVENT
 BEGIN:VEVENT
 UID:03ee221907@meetupradar
-DTSTAMP:20261112T090100Z
+DTSTAMP:20261112T130100Z
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:AI 4 DEV — 11/2026 @ Brno
@@ -49,14 +49,14 @@ DESCRIPTION:Potkáme se a dáme si dva kratší talky\, které mají za
  je to prostor pro zvídavce\, kteří chtějí sdílet\, ptát se a poso
  uvat se dál. Vezmi s sebou nápady\, otázky nebo jen chuť potkat dal
  ší lidi\, kteří přemýšlejí podobně. talks: 🎤 Jak jsem automa
- tizoval video strih - chemiX 🎤 Pi agent Srigi/Lukas Chylik Vibecoders
-  vítáni :huggin-face: MCP EVERYWHERE\n\nhttps://www.meetup.com/ai-4-de
- v/events/317207589/
+ tizoval video strih - chemiX 🎤 Pi agent Lukas Chylik Vibecoders vít
+ áni :huggin-face: MCP EVERYWHERE\n\nhttps://www.meetup.com/ai-4-dev/eve
+ nts/317207589/
 URL:https://www.meetup.com/ai-4-dev/events/317207589/
 END:VEVENT
 BEGIN:VEVENT
 UID:27ee9fb507@meetupradar
-DTSTAMP:20261112T090100Z
+DTSTAMP:20261112T130100Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:TechMeetup Ostrava 2026
@@ -68,7 +68,7 @@ URL:https://www.ostravalove.cz/techmeetup-ostrava-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3f2d60be@meetupradar
-DTSTAMP:20261112T090100Z
+DTSTAMP:20261112T130100Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Kurz Vibe Coding
@@ -81,7 +81,7 @@ URL:https://www.eventbrite.com/e/kurz-vibe-coding-tickets-2004702730833
 END:VEVENT
 BEGIN:VEVENT
 UID:176d3a6d72@meetupradar
-DTSTAMP:20261112T090100Z
+DTSTAMP:20261112T130100Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl

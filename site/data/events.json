@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T09:00:08.831Z",
+ "updatedAt": "2026-11-12T13:00:07.009Z",
  "aiAt": "2026-11-12T05:01:47.355Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 119
+   "count": 111
   },
   {
    "name": "Luma",
@@ -333,7 +333,7 @@
    "type": "meetup",
    "url": "https://www.meetup.com/ai-4-dev/events/317207589/",
    "organizer": "AI 4 DEV",
-   "description": "Potkáme se a dáme si dva kratší talky, které mají za úkol hlavně otevřít diskuzi. Tohle není přednáška ve škole – je to prostor pro zvídavce, kteří chtějí sdílet, ptát se a posouvat se dál. Vezmi s sebou nápady, otázky nebo jen chuť potkat další lidi, kteří přemýšlejí podobně. talks: 🎤 Jak jsem automatizoval video strih - chemiX 🎤 Pi agent Srigi/Lukas Chylik Vibecoders vítáni :huggin-face: MCP EVERYWHERE",
+   "description": "Potkáme se a dáme si dva kratší talky, které mají za úkol hlavně otevřít diskuzi. Tohle není přednáška ve škole – je to prostor pro zvídavce, kteří chtějí sdílet, ptát se a posouvat se dál. Vezmi s sebou nápady, otázky nebo jen chuť potkat další lidi, kteří přemýšlejí podobně. talks: 🎤 Jak jsem automatizoval video strih - chemiX 🎤 Pi agent Lukas Chylik Vibecoders vítáni :huggin-face: MCP EVERYWHERE",
    "image": "https://secure.meetupstatic.com/photos/event/c/e/d/f/highres_536872959.jpeg",
    "price": {
     "free": true
@@ -343,7 +343,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes",
@@ -363,7 +363,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T17:51:32.046Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "WUD Austria 2026: Designing a Sustainable Future with Ethical AI",
@@ -383,7 +383,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI Business Roundtable: Jak dostat AI do každodenního provozu firmy",
@@ -402,7 +402,7 @@
    "id": "58dfef022e",
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Interdisciplinary Hackathon by AI Tinkerers Prague × Dny.AI",
@@ -459,7 +459,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Practical AI for Freelancers & Small Businesses",
@@ -479,7 +479,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI Now Polska Webinar #7",
@@ -499,7 +499,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
@@ -519,7 +519,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -543,7 +543,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -563,7 +563,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T17:51:32.046Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Informace, inteligence, čas rozhodnutí (2. ročník)",
@@ -601,7 +601,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -621,7 +621,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -641,7 +641,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -663,7 +663,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -683,7 +683,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "TechMeetup Ostrava 2026",
@@ -720,7 +720,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Kurz Vibe Coding",
@@ -739,7 +739,7 @@
    "id": "cb3f2d60be",
    "region": "cz",
    "firstSeen": "2026-11-11T13:02:36.557Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI Leadership: How to protect, enable and connect your team",
@@ -759,7 +759,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T15:33:48.452Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -779,7 +779,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "REMOTE: TestData & AI - TestBustersNight November",
@@ -798,7 +798,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-12T09:00:08.831Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -821,7 +821,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -841,7 +841,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -864,7 +864,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "PyData Prague #37 - Trust the Age of Juniors",
@@ -887,7 +887,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -906,7 +906,7 @@
    "id": "176d3a6d72",
    "region": "cz",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI 2027 Conference (Smashing Magazine)",
@@ -968,7 +968,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI Suverenita 2026",
@@ -1023,7 +1023,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "AI Makers / 02 — Product Strategy in a World of AI Labs",
@@ -1047,7 +1047,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "Building Local and Serverless LLM Agents: airhacks.live",
@@ -1068,7 +1068,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "CIO Agenda 2027: Když stroje útočí",
@@ -1104,7 +1104,7 @@
    "id": "ebc7bb63f9",
    "region": "praha",
    "firstSeen": "2026-11-11T13:02:36.557Z",
-   "lastSeen": "2026-11-12T09:00:08.831Z"
+   "lastSeen": "2026-11-12T13:00:07.009Z"
   },
   {
    "title": "HIPTHER AI Summit Prague 2027",
