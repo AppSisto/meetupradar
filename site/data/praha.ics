@@ -8,27 +8,8 @@ X-WR-TIMEZONE:Europe/Prague
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:794e5d92c9@meetupradar
-DTSTAMP:20261112T134200Z
-DTSTART:20261111T170000Z
-DTEND:20261111T190000Z
-SUMMARY:Praha [🍺 a ☕️Lajka]: Nowwwinky\, Generative UI\, vibe codi
- ng a hry u piva
-LOCATION:Lajka pivovar - café\, U Akademie 366/11\, 170 00 Praha 7-Buben
- eč\, Czechia
-DESCRIPTION:Podzim je v plném proudu a my se vracíme do pivovaru Lajka.
-  Tentokrát jsme ale program trochu překopali. Méně sezení a tichéh
- o poslouchání\, více prostoru na pivo\, lidi okolo a debaty o tom\, c
- o hýbe webem. Talky budou kratší\, pauzy delší a mezitím pár jedn
- oduchých her. Večerem nás provede Karolína Vyskočilová. Vezměte s
-  sebou dobrou náladu a přijďte! Budeme se scházet postupně od 18:00
-  a od 18:30 máme na programu: 📰…\n\nhttps://www.meetup.com/fronten
- disti/events/317106674/
-URL:https://www.meetup.com/frontendisti/events/317106674/
-END:VEVENT
-BEGIN:VEVENT
 UID:58dfef022e@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:AI Business Roundtable: Jak dostat AI do každodenního provozu f
@@ -43,7 +24,7 @@ URL:https://www.eventbrite.com/e/ai-business-roundtable-jak-dostat-ai-do-
 END:VEVENT
 BEGIN:VEVENT
 UID:4c4983d518@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Interdisciplinary Hackathon by AI Tinkerers Prague × Dny.AI
@@ -57,7 +38,7 @@ URL:https://hackathonhub.eu/events/interdisciplinary-hackathon-by-ai-tink
 END:VEVENT
 BEGIN:VEVENT
 UID:33986de87d@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261118T160000Z
 DTEND:20261118T180000Z
 SUMMARY:Data Punkers 18: AI Agents Taking Over
@@ -74,7 +55,7 @@ URL:https://www.meetup.com/data-punkers/events/317297169/
 END:VEVENT
 BEGIN:VEVENT
 UID:e6e8be9c43@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261119T080000Z
 DTEND:20261119T180000Z
 SUMMARY:Informace\, inteligence\, čas rozhodnutí (2. ročník)
@@ -85,7 +66,7 @@ URL:https://d2bm5ols8fc0nw.cloudfront.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:b85719d15f@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:ReactGirls & Active24 meetup
@@ -103,7 +84,7 @@ URL:https://www.meetup.com/reactgirls/events/316938358/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd59b7a456@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261125T173000Z
 DTEND:20261125T193000Z
 SUMMARY:AGI kontrolovaná firma: Dark Factory
@@ -120,7 +101,7 @@ URL:https://www.meetup.com/reset-hard/events/316733193/
 END:VEVENT
 BEGIN:VEVENT
 UID:81bc14aaf0@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261126T160000Z
 DTEND:20261126T180000Z
 SUMMARY:External combinators and shattering with permutations
@@ -136,7 +117,7 @@ URL:https://www.meetup.com/miton-times/events/317267997/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2fbbd86ed@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261126T170000Z
 DTEND:20261126T190000Z
 SUMMARY:PyData Prague #37 - Trust the Age of Juniors
@@ -153,7 +134,7 @@ URL:https://www.meetup.com/pydata-prague/events/317314096/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4f02b5896@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:Power Conference 2026
@@ -166,7 +147,7 @@ URL:https://www.powerconference.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:8452189ea8@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261202T170000Z
 DTEND:20261202T210000Z
 SUMMARY:Agentic Development
@@ -179,7 +160,7 @@ URL:https://lu.ma/2eb30aiv
 END:VEVENT
 BEGIN:VEVENT
 UID:7a75a6d6f2@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:AI Suverenita 2026
@@ -192,7 +173,7 @@ URL:https://vikendo.cz/events/ai-suverenita-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2d492de7bb@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART:20261210T170000Z
 DTEND:20261210T200000Z
 SUMMARY:AI Makers / 02 — Product Strategy in a World of AI Labs
@@ -205,7 +186,7 @@ URL:https://lu.ma/4i0m8d0u
 END:VEVENT
 BEGIN:VEVENT
 UID:725a793531@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:CIO Agenda 2027: Když stroje útočí
@@ -217,7 +198,7 @@ URL:https://www.cioagenda.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebc7bb63f9@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:HackerX - Prague (AI) - Employer Ticket - 2/11
@@ -230,7 +211,7 @@ URL:https://www.eventbrite.com/e/hackerx-prague-ai-employer-ticket-211-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:9d708f321f@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:HIPTHER AI Summit Prague 2027
@@ -242,7 +223,7 @@ URL:https://hipther.com/events/prague/
 END:VEVENT
 BEGIN:VEVENT
 UID:19805d84b5@meetupradar
-DTSTAMP:20261112T134200Z
+DTSTAMP:20261112T173100Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270506
 SUMMARY:Machine Learning Prague 2027
