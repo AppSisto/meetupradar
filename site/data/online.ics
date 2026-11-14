@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:9cabca5de4@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261114T090000Z
 DTEND:20261114T110000Z
 SUMMARY:Build & Learn: From Data Science to AI Engineering Week 7(ONLINE 
@@ -28,7 +28,7 @@ URL:https://www.meetup.com/build-learn-data-science-saturdays/events/3166
 END:VEVENT
 BEGIN:VEVENT
 UID:3198da9be5@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261116T160000Z
 DTEND:20261116T180000Z
 SUMMARY:Production AI Agents for Generative Media: Course Launch
@@ -45,7 +45,7 @@ URL:https://www.meetup.com/berlin-datatalks-club/events/317190714/
 END:VEVENT
 BEGIN:VEVENT
 UID:bb1b190caf@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261116T200000Z
 DTEND:20261116T220000Z
 SUMMARY:Practical AI for Freelancers & Small Businesses
@@ -63,7 +63,7 @@ URL:https://www.meetup.com/vienna-growth-success-network/events/317359965
 END:VEVENT
 BEGIN:VEVENT
 UID:4bbfc38816@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261117T100000Z
 DTEND:20261117T120000Z
 SUMMARY:AI Now Polska Webinar #7
@@ -80,7 +80,7 @@ URL:https://www.meetup.com/ainow-polska/events/316993779/
 END:VEVENT
 BEGIN:VEVENT
 UID:f396b7cc4c@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261117T170000Z
 DTEND:20261117T190000Z
 SUMMARY:Building AI Memory: From a Local Robot to a 1\,000-Fly Hive Mind
@@ -97,7 +97,7 @@ URL:https://www.meetup.com/berlin-data-science-odsc/events/317074254/
 END:VEVENT
 BEGIN:VEVENT
 UID:290111af83@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261118T160000Z
 DTEND:20261118T180000Z
 SUMMARY:Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet
@@ -113,7 +113,7 @@ URL:https://www.meetup.com/ac-muc/events/317102325/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e90403c34@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261118T180000Z
 DTEND:20261118T200000Z
 SUMMARY:From Chatbots to Agents and Beyond: What's Next for AI?
@@ -131,7 +131,7 @@ URL:https://www.meetup.com/ai-builders-curious-minds-central-europe/event
 END:VEVENT
 BEGIN:VEVENT
 UID:e83970a4ea@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261119T160000Z
 DTEND:20261119T180000Z
 SUMMARY:AI ROI by Business Unit: FinOps for AI Platforms
@@ -147,7 +147,7 @@ URL:https://www.meetup.com/kong-vienna/events/317360650/
 END:VEVENT
 BEGIN:VEVENT
 UID:d95d77b0b3@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:Build AI Agents That Run Your Daily Operations
@@ -163,7 +163,7 @@ URL:https://www.meetup.com/baig-academy-of-ai/events/317187066/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a8957855@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
 SUMMARY:Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data
@@ -181,7 +181,7 @@ URL:https://www.meetup.com/munchen-ai-machine-learning-and-computer-visio
 END:VEVENT
 BEGIN:VEVENT
 UID:66b20342d7@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:AI for Work: Build Your Own AI-Powered CRM
@@ -197,8 +197,24 @@ DESCRIPTION:Pre-Registration is REQUIRED. Joining link -https://streamyar
 URL:https://www.meetup.com/berlin-data-science-odsc/events/317062260/
 END:VEVENT
 BEGIN:VEVENT
+UID:13b5f70a4c@meetupradar
+DTSTAMP:20261114T212000Z
+DTSTART:20261119T190000Z
+DTEND:20261119T210000Z
+SUMMARY:Guardrails for AI Agents: Wanaku in Front of a Java Webshop API
+LOCATION:Online
+DESCRIPTION:Welcome to the JUG Oberpfalz Online Live Coding Sessions! Our
+  online sessions are held in English and streamed live on YouTube. The r
+ ecording will be available afterwards. Join the live chat\, ask question
+ s\, and follow along as we explore what the next generation of software 
+ development might look like. This session is hosted by Johannes Rabauer 
+ with special guest Otavio Rodolfo Piske\, Red Hat Principal Engineer at
+ …\n\nhttps://www.meetup.com/jug-oberpfalz/events/317429936/
+URL:https://www.meetup.com/jug-oberpfalz/events/317429936/
+END:VEVENT
+BEGIN:VEVENT
 UID:acb93381fd@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261120T090000Z
 DTEND:20261120T110000Z
 SUMMARY:Marketingdaten mit AI nutzen || FREE Community Training
@@ -215,7 +231,7 @@ URL:https://www.meetup.com/analytics-pioneers-wien/events/317173380/
 END:VEVENT
 BEGIN:VEVENT
 UID:292f7716c3@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261125T113000Z
 DTEND:20261125T133000Z
 SUMMARY:AI Leadership: How to protect\, enable and connect your team
@@ -233,7 +249,7 @@ URL:https://www.meetup.com/love-your-team-leadership-skills-for-the-real-
 END:VEVENT
 BEGIN:VEVENT
 UID:9dbbbb3dbe@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SUMMARY:From Legacy System to Any Cloud Data Platform using AI Agents
@@ -249,7 +265,7 @@ URL:https://www.meetup.com/warsaw-enterprise-ai/events/317284202/
 END:VEVENT
 BEGIN:VEVENT
 UID:3435a6cf3f@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261125T170000Z
 DTEND:20261125T190000Z
 SUMMARY:REMOTE: TestData & AI - TestBustersNight November
@@ -261,7 +277,7 @@ URL:https://www.meetup.com/agile-test-automation-meetup-vienna/events/317
 END:VEVENT
 BEGIN:VEVENT
 UID:67f1403788@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261126T120000Z
 DTEND:20261126T140000Z
 SUMMARY:Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyber
@@ -277,8 +293,27 @@ DESCRIPTION:Please note: this is a paid event. To attend\, please registe
 URL:https://www.meetup.com/hypeless-ai/events/317057543/
 END:VEVENT
 BEGIN:VEVENT
+UID:5a71d95378@meetupradar
+DTSTAMP:20261114T212000Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:In Charge of AI Transformation in Your SDLC? Open Q&A for Enginee
+ ring Leaders
+LOCATION:Online
+DESCRIPTION:⚠️ IMPORTANT — this is a small remote session on Google
+  Meet with limited seats. To get the join link you must register on Luma
+  here 👉 https://luma.com/hozinay6 (an RSVP here alone won't get you i
+ n.) You've been put in charge of AI transformation\, and the goal came w
+ ithout the how. Individual engineers picked the tools up and some of the
+ m are flying\, yet the way your organisation delivers software has barel
+ y moved.…\n\nhttps://www.meetup.com/software-engineering-for-the-ai-er
+ a-by-max-piechota/events/317410332/
+URL:https://www.meetup.com/software-engineering-for-the-ai-era-by-max-pie
+ chota/events/317410332/
+END:VEVENT
+BEGIN:VEVENT
 UID:b59a44b27a@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261201T160000Z
 DTEND:20261201T200000Z
 SUMMARY:AI 2027 Conference (Smashing Magazine)
@@ -291,7 +326,7 @@ URL:https://smashingconf.com/ai-2027-conference
 END:VEVENT
 BEGIN:VEVENT
 UID:2a4f88401e@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261204T080000Z
 DTEND:20261204T100000Z
 SUMMARY:AI Legal Intro: jak používat AI naplno a bez právních rizik +
@@ -310,7 +345,7 @@ URL:https://www.meetup.com/grow-every-day-prague-career-tech-community/ev
 END:VEVENT
 BEGIN:VEVENT
 UID:6419581f51@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261204T170000Z
 DTEND:20261204T190000Z
 SUMMARY:Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Ge
@@ -326,8 +361,24 @@ DESCRIPTION:Important: Register on the event website to receive the joini
 URL:https://www.meetup.com/vienna-ai/events/317411628/
 END:VEVENT
 BEGIN:VEVENT
+UID:01b07a218d@meetupradar
+DTSTAMP:20261114T212000Z
+DTSTART:20261207T160000Z
+DTEND:20261207T180000Z
+SUMMARY:AI Engineering: How to Build Apps on Top of LLMs
+LOCATION:Online
+DESCRIPTION:This free session is for developers with 2+ years of experien
+ ce who were laid off\, are in their notice period or are looking for a j
+ ob. I skip the basics and assume you already ship code at work. It's one
+  of three sessions\, online\, Mondays at 17:00 Berlin time. AI engineeri
+ ng is building products that use LLMs\, like chatbots\, search over your
+  company's documents or agents that do tasks for users. In the first 15 
+ to…\n\nhttps://www.meetup.com/berlin-datatalks-club/events/317427758/
+URL:https://www.meetup.com/berlin-datatalks-club/events/317427758/
+END:VEVENT
+BEGIN:VEVENT
 UID:347878e8ce@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261211
 SUMMARY:PyData Global 2026
@@ -340,7 +391,7 @@ URL:https://pydata.org/global2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:c874bf84b3@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
 SUMMARY:AI Webinar (Diagrid and AWS) - Durable Execution for Agents
@@ -356,7 +407,7 @@ URL:https://www.meetup.com/vienna-ai/events/317414179/
 END:VEVENT
 BEGIN:VEVENT
 UID:39d421c8b3@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261210T160000Z
 DTEND:20261210T180000Z
 SUMMARY:[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem mod
@@ -374,7 +425,7 @@ URL:https://www.meetup.com/stacja-it-krakow/events/317267984/
 END:VEVENT
 BEGIN:VEVENT
 UID:eed363160d@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261215T090000Z
 DTEND:20261215T110000Z
 SUMMARY:Building Local and Serverless LLM Agents: airhacks.live
@@ -390,7 +441,7 @@ URL:https://www.meetup.com/airhacks/events/315455965/
 END:VEVENT
 BEGIN:VEVENT
 UID:8194a6f348@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20261217T090000Z
 DTEND:20261217T110000Z
 SUMMARY:LLM-Assisted Legacy System Migration to Modern Java: airhacks.liv
@@ -407,7 +458,7 @@ URL:https://www.meetup.com/airhacks/events/315526943/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a17a55c43@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART:20270330T160000Z
 DTEND:20270331T220000Z
 SUMMARY:Agentic AI Conference 2027
@@ -420,7 +471,7 @@ URL:https://datasciencedojo.com/agentic-ai-conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:4fb9a52651@meetupradar
-DTSTAMP:20261114T154400Z
+DTSTAMP:20261114T212000Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270513
 SUMMARY:ODSC AI East 2027 Virtual
