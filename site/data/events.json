@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T17:07:59.134Z",
- "aiAt": "2026-11-13T05:04:36.557Z",
+ "updatedAt": "2026-11-14T12:05:07.547Z",
+ "aiAt": "2026-11-14T12:05:07.547Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 128
+   "count": 119
   },
   {
    "name": "Luma",
@@ -17,6 +17,11 @@
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
+  },
+  {
+   "name": "AI hledání",
+   "ok": true,
+   "count": 8
   }
  ],
  "events": [
@@ -460,7 +465,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Practical AI for Freelancers & Small Businesses",
@@ -520,7 +525,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T05:00:50.799Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
@@ -540,7 +545,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -564,7 +569,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -584,7 +589,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T17:51:32.046Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Informace, inteligence, čas rozhodnutí (2. ročník)",
@@ -622,7 +627,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -642,7 +647,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -662,7 +667,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -684,7 +689,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -704,7 +709,28 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "Hackathon 2026: Umělá inteligence a její využití v chytrých městech a regionech",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "allDay": true,
+   "online": false,
+   "city": "Olomouc",
+   "venue": "Envelopa Hub, Vědeckotechnický park Univerzity Palackého",
+   "type": "hackathon",
+   "url": "https://www.olkraj.cz/aktuality-clanku/hackathon-2026-se-letos-vrha-na-umelou-inteligenci",
+   "organizer": "Olomoucký kraj, Statutární město Olomouc, katedra geoinformatiky PřF UP",
+   "description": "48hodinový hackathon zaměřený na využití AI v chytrých městech a regionech s reálnými daty mobilních operátorů. Samostatnou kategorii pro AI zaštiťuje OLC Systems.",
+   "price": {
+    "free": true
+   },
+   "source": "AI hledání",
+   "id": "11cbfdbbb5",
+   "region": "cz",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "TechMeetup Ostrava 2026",
@@ -741,7 +767,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Kurz Vibe Coding",
@@ -780,7 +806,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T15:33:48.452Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -800,7 +826,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "REMOTE: TestData & AI - TestBustersNight November",
@@ -819,7 +845,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-12T09:00:08.831Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -842,7 +868,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -862,7 +888,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -885,7 +911,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "PyData Prague #37 - Trust the Age of Juniors",
@@ -908,7 +934,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -989,7 +1015,27 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "AI Legal Intro: jak používat AI naplno a bez právních rizik + networking",
+   "start": "2026-12-04T09:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/grow-every-day-prague-career-tech-community/events/317421809/",
+   "organizer": "Grow Every Day Prague: Career & Tech Community",
+   "description": "Smíš použít logo nebo text od AI? Kdo je autorem? Zjisti, kde jsou právní hranice, a potkej lidi, kteří s AI pracují jako ty. Popis AI dnes píše texty, kreslí loga a analyzuje data. Ale smíš její výstupy volně použít? Kdo je jejich autorem? A co když do ní nahraješ data zákazníků? Na tomhle setkání projdeme srozumitelně a bez právnické hantýrky, kde jsou hranice a jak se vyhnout nepříjemným překvapením. Pak…",
+   "image": "https://secure.meetupstatic.com/photos/event/1/7/d/e/highres_537126110.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "2a4f88401e",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
@@ -1009,7 +1055,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T17:07:59.134Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "AI Suverenita 2026",
@@ -1047,6 +1093,26 @@
    "lastSeen": "2026-11-10T16:00:50.338Z"
   },
   {
+   "title": "AI Webinar (Diagrid and AWS) - Durable Execution for Agents",
+   "start": "2026-12-09T19:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "webinář",
+   "url": "https://www.meetup.com/vienna-ai/events/317414179/",
+   "organizer": "Vienna AI",
+   "description": "Important: Register on the event website to receive the joining link. (rsvp on meetup will NOT receive anything). This is virtual event for our AI global community, please double-check your local time. Can't make it live? Register anyway to receive the webinar recording. Welcome to the AI Deep Dive Series (Virtual) with Diagrid and AWS. Join us for deep dive tech talks on AI, GenAI, LLMs, Agentic AI, hands-on…",
+   "image": "https://secure.meetupstatic.com/photos/event/b/2/6/highres_537122854.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "c874bf84b3",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
    "title": "[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem modelu Jev",
    "start": "2026-12-10T17:00:00+01:00",
    "online": true,
@@ -1064,7 +1130,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "AI Makers / 02 — Product Strategy in a World of AI Labs",
@@ -1088,7 +1154,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "Building Local and Serverless LLM Agents: airhacks.live",
@@ -1109,7 +1175,105 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-13T17:07:59.134Z"
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "LLM-Assisted Legacy System Migration to Modern Java: airhacks.live",
+   "start": "2026-12-17T10:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/airhacks/events/315526943/",
+   "organizer": "airhacks",
+   "description": "Join Adam Bien (linkedin.com/in/adam-bien) for a hands-on workshop for a hands-on workshop on turning ideas into production-ready Java code with LLMs and agents. Learn how to go from ideas to structured specs, and specs to deployable, consistently structured Java code grounded in best practices. Accelerated and incrementally refined at every step by LLMs and agents. Learn how to turn legacy Java into maintainable,…",
+   "image": "https://secure.meetupstatic.com/photos/event/3/9/1/7/highres_535034615.jpeg",
+   "price": {
+    "free": false,
+    "text": "238 EUR"
+   },
+   "source": "Meetup",
+   "id": "8194a6f348",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "AI konference eBRÁNA",
+   "start": "2027-01-13T09:00:00+01:00",
+   "end": "2027-01-13T15:30:00+01:00",
+   "allDay": false,
+   "online": false,
+   "city": "Pardubice",
+   "venue": "eBRÁNA, Millheimova 1010",
+   "type": "konference",
+   "url": "https://ebrana.cz/ai-konference",
+   "organizer": "eBRÁNA",
+   "description": "Praktická konference o využití AI v obchodu, marketingu a interních procesech firem, mimo jiné o tvorbě vlastního AI asistenta a o propojení AI s firemními procesy.",
+   "price": {
+    "free": false,
+    "text": "5 900 Kč bez DPH"
+   },
+   "source": "AI hledání",
+   "id": "6d807d9ca7",
+   "region": "cz",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "Kybernetická bezpečnost v době AI",
+   "start": "2027-01-21",
+   "allDay": true,
+   "online": false,
+   "city": "Praha",
+   "venue": "ČZU v Praze, Provozně ekonomická fakulta",
+   "type": "konference",
+   "url": "https://kbai.pef.czu.cz/",
+   "organizer": "ČZU v Praze, PEF",
+   "description": "Odborná konference o kybernetické bezpečnosti a bezpečném využívání umělé inteligence v organizacích.",
+   "price": {
+    "free": true
+   },
+   "source": "AI hledání",
+   "id": "06e9df1a3c",
+   "region": "praha",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "AI Coding Dojo: AI harness",
+   "start": "2027-01-21T17:30:00+01:00",
+   "end": "2027-01-21T20:30:00+01:00",
+   "allDay": false,
+   "online": false,
+   "city": "Brno",
+   "venue": "SAP, Brno",
+   "type": "workshop",
+   "url": "https://www.brno.ai/en/events",
+   "description": "Praktický workshop pro vývojáře zaměřený na práci s AI coding harnessy. Akce je uvedena v kalendáři Brno.AI.",
+   "source": "AI hledání",
+   "id": "d7f97ed79d",
+   "region": "cz",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "ROBOTY 2027",
+   "start": "2027-01-27",
+   "end": "2027-01-28",
+   "allDay": true,
+   "online": false,
+   "city": "Brno",
+   "venue": "OREA Congress Hotel Brno",
+   "type": "konference",
+   "url": "https://konference-roboty.cz/",
+   "organizer": "Trade Media International",
+   "description": "Tradiční česko-slovenská konference o robotizaci a umělé inteligenci se zaměřením na praxi bez marketingových pohádek. Součástí je výstava a networking.",
+   "source": "AI hledání",
+   "id": "d89d02e9e2",
+   "region": "cz",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "CIO Agenda 2027: Když stroje útočí",
@@ -1146,6 +1310,39 @@
    "region": "praha",
    "firstSeen": "2026-11-11T13:02:36.557Z",
    "lastSeen": "2026-11-13T09:00:07.965Z"
+  },
+  {
+   "title": "IT ve zdravotnictví",
+   "start": "2027-02-18T09:00:00+01:00",
+   "end": "2027-02-18T15:00:00+01:00",
+   "allDay": false,
+   "online": false,
+   "city": "Praha",
+   "venue": "Hotel Grandior, Na Poříčí 1052/42, Praha 1",
+   "type": "konference",
+   "url": "https://zdravotnictvi.konference.cz/",
+   "organizer": "konference.cz",
+   "description": "Konference pro ředitele nemocnic a IT manažery o regulacích, kyberbezpečnosti a AI v klinické praxi, včetně případových studií.",
+   "source": "AI hledání",
+   "id": "f01c1eb974",
+   "region": "praha",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
+  },
+  {
+   "title": "Digitální Česko 2027",
+   "start": "2027-03-09",
+   "allDay": true,
+   "online": false,
+   "type": "konference",
+   "url": "https://www.digitalni-cesko.eu/en",
+   "organizer": "Institut pro politiku a společnost",
+   "description": "12. ročník mezinárodní konference o umělé inteligenci, digitálním státu, pravidlech digitální ekonomiky, kybernetické odolnosti a digitální identitě.",
+   "source": "AI hledání",
+   "id": "cbd358e689",
+   "region": "cz",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
    "title": "HIPTHER AI Summit Prague 2027",
@@ -1219,6 +1416,24 @@
    "region": "online",
    "firstSeen": "2026-11-13T05:04:36.557Z",
    "lastSeen": "2026-11-13T05:04:36.557Z"
+  },
+  {
+   "title": "AI ve veřejné správě 2027 (4. ročník)",
+   "start": "2027-05-13",
+   "end": "2027-05-14",
+   "allDay": true,
+   "online": false,
+   "city": "Hluboká nad Vltavou",
+   "venue": "Alšova jihočeská galerie",
+   "type": "konference",
+   "url": "https://aivs.kraj-jihocesky.cz/",
+   "organizer": "Jihočeský kraj",
+   "description": "Dvoudenní celostátní konference o praktickém nasazení AI v úřadech a veřejné správě. Program a registrace se připravují.",
+   "source": "AI hledání",
+   "id": "a361ad876b",
+   "region": "cz",
+   "firstSeen": "2026-11-14T12:05:07.547Z",
+   "lastSeen": "2026-11-14T12:05:07.547Z"
   }
  ]
 }
