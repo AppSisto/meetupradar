@@ -1,22 +1,27 @@
 {
- "updatedAt": "2026-11-14T21:19:28.334Z",
- "aiAt": "2026-11-14T12:05:07.547Z",
+ "updatedAt": "2026-11-15T12:39:57.325Z",
+ "aiAt": "2026-11-15T12:39:57.325Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 115
+   "count": 113
   },
   {
    "name": "Luma",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "name": "Eventbrite",
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
+  },
+  {
+   "name": "AI hledání",
+   "ok": true,
+   "count": 4
   }
  ],
  "events": [
@@ -540,7 +545,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -564,7 +569,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -584,7 +589,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T17:51:32.046Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Informace, inteligence, čas rozhodnutí (2. ročník)",
@@ -622,7 +627,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -642,7 +647,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -662,7 +667,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -684,7 +689,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -704,7 +709,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Guardrails for AI Agents: Wanaku in Front of a Java Webshop API",
@@ -724,7 +729,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Hackathon 2026: Umělá inteligence a její využití v chytrých městech a regionech",
@@ -782,7 +787,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Kurz Vibe Coding",
@@ -821,7 +826,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T15:33:48.452Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -841,7 +846,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "REMOTE: TestData & AI - TestBustersNight November",
@@ -860,7 +865,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-12T09:00:08.831Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -883,7 +888,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -903,7 +908,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -926,7 +931,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "PyData Prague #37 - Trust the Age of Juniors",
@@ -949,7 +954,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "In Charge of AI Transformation in Your SDLC? Open Q&A for Engineering Leaders",
@@ -969,7 +974,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -1050,7 +1055,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "AI jam #2 (ReactGirls & Sky)",
@@ -1072,7 +1077,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "AI Legal Intro: jak používat AI naplno a bez právních rizik + networking",
@@ -1092,7 +1097,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
@@ -1112,7 +1117,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T17:07:59.134Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "AI Engineering: How to Build Apps on Top of LLMs",
@@ -1131,7 +1136,8 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z",
+   "image": "https://secure.meetupstatic.com/photos/event/6/e/a/e/highres_537148334.jpeg"
   },
   {
    "title": "AI Suverenita 2026",
@@ -1186,7 +1192,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem modelu Jev",
@@ -1230,7 +1236,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Building Local and Serverless LLM Agents: airhacks.live",
@@ -1251,7 +1257,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-14T21:19:28.334Z"
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "LLM-Assisted Legacy System Migration to Modern Java: airhacks.live",
@@ -1406,6 +1412,25 @@
    "lastSeen": "2026-11-14T12:05:07.547Z"
   },
   {
+   "title": "Hack-Nation Global AI Hackathon 8",
+   "start": "2027-02-27T18:00:00+01:00",
+   "end": "2027-02-28",
+   "allDay": false,
+   "online": true,
+   "type": "hackathon",
+   "url": "https://hack-nation.ai/start",
+   "organizer": "Hack-Nation",
+   "description": "Bezplatný 24hodinový AI hackathon, kterého se dá účastnit online nebo v některém z hubů po světě. Ceny přesahují 30 tisíc dolarů v hotovosti a kreditech.",
+   "price": {
+    "free": true
+   },
+   "source": "AI hledání",
+   "id": "df31017f25",
+   "region": "online",
+   "firstSeen": "2026-11-15T12:39:57.325Z",
+   "lastSeen": "2026-11-15T12:39:57.325Z"
+  },
+  {
    "title": "Digitální Česko 2027",
    "start": "2027-03-09",
    "allDay": true,
@@ -1454,6 +1479,62 @@
    "region": "online",
    "firstSeen": "2026-11-13T05:04:36.557Z",
    "lastSeen": "2026-11-13T05:04:36.557Z"
+  },
+  {
+   "title": "Hackathon veřejné správy ver. 8.1",
+   "start": "2027-04-02",
+   "end": "2027-04-03",
+   "allDay": true,
+   "online": false,
+   "city": "Praha",
+   "venue": "Sídlo NKÚ, Komunardů 1634/44, Praha 7 – Holešovice",
+   "type": "hackathon",
+   "url": "https://www.hackujstat.cz/",
+   "organizer": "Hackujstat.cz",
+   "description": "Dvoudenní hackathon zaměřený na zlepšování státu a veřejné správy. Mezi tématy je i provoz a integrace AI systémů na vlastní infrastruktuře (on-premise).",
+   "source": "AI hledání",
+   "id": "b6292f41b6",
+   "region": "praha",
+   "firstSeen": "2026-11-15T12:39:57.325Z",
+   "lastSeen": "2026-11-15T12:39:57.325Z"
+  },
+  {
+   "title": "Spring School of AI 2027",
+   "start": "2027-04-13",
+   "end": "2027-04-18",
+   "allDay": true,
+   "online": false,
+   "city": "Krkonoše",
+   "venue": "Patejdlova bouda",
+   "type": "workshop",
+   "url": "https://springai.ktiml.mff.cuni.cz/",
+   "organizer": "KTIML MFF Univerzity Karlovy",
+   "description": "Týdenní jarní škola umělé inteligence na horách. Studenti na ní prezentují svůj výzkum a vystoupí hosté z akademické sféry i z firem.",
+   "deadline": "2027-01-31",
+   "source": "AI hledání",
+   "id": "ecaf153c8e",
+   "region": "cz",
+   "firstSeen": "2026-11-15T12:39:57.325Z",
+   "lastSeen": "2026-11-15T12:39:57.325Z"
+  },
+  {
+   "title": "V4AIR – AI meetup pro výzkumníky",
+   "start": "2027-04-28",
+   "end": "2027-04-30",
+   "allDay": true,
+   "online": false,
+   "city": "Kostelec nad Černými lesy",
+   "venue": "Zámek Kostelec",
+   "type": "meetup",
+   "url": "https://v4air.eu/",
+   "organizer": "Univerzita Karlova, ČVUT, University of Wrocław, Nicolaus Copernicus University in Toruń",
+   "description": "Třídenní setkání studentů a začínajících výzkumníků z různých oborů, kteří používají AI. Ubytování a strava jsou zajištěné a účastníci dostanou příspěvek na cestu.",
+   "deadline": "2027-01-15",
+   "source": "AI hledání",
+   "id": "1df7be923e",
+   "region": "cz",
+   "firstSeen": "2026-11-15T12:39:57.325Z",
+   "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
    "title": "Machine Learning Prague 2027",
