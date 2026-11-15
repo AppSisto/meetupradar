@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T12:39:57.325Z",
+ "updatedAt": "2026-11-15T16:15:22.656Z",
  "aiAt": "2026-11-15T12:39:57.325Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 113
+   "count": 114
   },
   {
    "name": "Luma",
@@ -17,11 +17,6 @@
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
-  },
-  {
-   "name": "AI hledání",
-   "ok": true,
-   "count": 4
   }
  ],
  "events": [
@@ -545,7 +540,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Data Punkers 18: AI Agents Taking Over",
@@ -569,7 +564,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -589,7 +584,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T17:51:32.046Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Informace, inteligence, čas rozhodnutí (2. ročník)",
@@ -627,7 +622,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -647,7 +642,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -667,7 +662,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -689,7 +684,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -709,7 +704,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Guardrails for AI Agents: Wanaku in Front of a Java Webshop API",
@@ -729,7 +724,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Hackathon 2026: Umělá inteligence a její využití v chytrých městech a regionech",
@@ -787,7 +782,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Kurz Vibe Coding",
@@ -826,7 +821,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T15:33:48.452Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -846,7 +841,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "REMOTE: TestData & AI - TestBustersNight November",
@@ -865,7 +860,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-12T09:00:08.831Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "AGI kontrolovaná firma: Dark Factory",
@@ -888,7 +883,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -908,7 +903,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -931,7 +926,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "PyData Prague #37 - Trust the Age of Juniors",
@@ -954,7 +949,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "In Charge of AI Transformation in Your SDLC? Open Q&A for Engineering Leaders",
@@ -974,7 +969,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -1055,7 +1050,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "AI jam #2 (ReactGirls & Sky)",
@@ -1077,7 +1072,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "AI Legal Intro: jak používat AI naplno a bez právních rizik + networking",
@@ -1097,7 +1092,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
@@ -1117,7 +1112,27 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T17:07:59.134Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
+  },
+  {
+   "title": "AI Engineering for Experienced Developers: How to Build Apps on Top of LLMs",
+   "start": "2026-12-07T17:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/berlin-datatalks-club/events/317427758/",
+   "organizer": "Berlin DataTalksClub Group",
+   "description": "Part of Hireable With AI, a free series of three online sessions by DataTalks.Club Academy. I'm Alexey Grigorev. I have taught more than 100,000 students in DataTalks.Club courses. This free session is for developers with 2+ years of experience who were laid off, are in their notice period or are looking for a job. I skip the basics and assume you already ship code at work. It's one of three sessions, online,…",
+   "image": "https://secure.meetupstatic.com/photos/event/6/e/a/e/highres_537148334.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "a05067ebfa",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-15T16:15:22.656Z",
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "AI Engineering: How to Build Apps on Top of LLMs",
@@ -1192,7 +1207,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem modelu Jev",
@@ -1236,7 +1251,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "Building Local and Serverless LLM Agents: airhacks.live",
@@ -1257,7 +1272,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-15T12:39:57.325Z"
+   "lastSeen": "2026-11-15T16:15:22.656Z"
   },
   {
    "title": "LLM-Assisted Legacy System Migration to Modern Java: airhacks.live",
