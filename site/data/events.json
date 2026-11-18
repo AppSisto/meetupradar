@@ -1,22 +1,27 @@
 {
- "updatedAt": "2026-11-17T18:25:13.827Z",
- "aiAt": "2026-11-17T14:17:29.876Z",
+ "updatedAt": "2026-11-18T13:50:42.633Z",
+ "aiAt": "2026-11-18T13:50:42.633Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 115
+   "count": 114
   },
   {
    "name": "Luma",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "name": "Eventbrite",
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
+  },
+  {
+   "name": "AI hledání",
+   "ok": true,
+   "count": 4
   }
  ],
  "events": [
@@ -564,7 +569,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -584,7 +589,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T17:51:32.046Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Informace, inteligence, čas rozhodnutí (2. ročník)",
@@ -622,7 +627,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Build AI Agents That Run Your Daily Operations",
@@ -642,7 +647,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
@@ -662,7 +667,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "ReactGirls & Active24 meetup",
@@ -684,7 +689,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI for Work: Build Your Own AI-Powered CRM",
@@ -704,7 +709,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Guardrails for AI Agents: Wanaku in Front of a Java Webshop API",
@@ -724,7 +729,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Hackathon 2026: Umělá inteligence a její využití v chytrých městech a regionech",
@@ -821,7 +826,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T15:33:48.452Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "From Legacy System to Any Cloud Data Platform using AI Agents",
@@ -841,7 +846,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "REMOTE: TestData & AI - TestBustersNight November",
@@ -883,7 +888,25 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
+  },
+  {
+   "title": "Primetime for Big Data 2026",
+   "start": "2026-11-26T09:00:00+01:00",
+   "end": "2026-11-26T17:00:00+01:00",
+   "allDay": false,
+   "online": false,
+   "city": "Praha",
+   "venue": "Národní technická knihovna (NTK)",
+   "type": "konference",
+   "url": "https://www.primetimefor.cz/",
+   "organizer": "Blue Events",
+   "description": "13. ročník konference o praktickém nasazení AI ve firmách: kvalita dat, měření přínosů a důvěryhodnost výstupů AI. V panelu vystoupí zástupci Rohlik Group, O2, Livesport a Letiště Praha.",
+   "source": "AI hledání",
+   "id": "e9764c7d57",
+   "region": "praha",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyberghs",
@@ -903,7 +926,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -926,7 +949,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "PyData Prague #37 - Trust the Age of Juniors",
@@ -949,7 +972,27 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
+  },
+  {
+   "title": "Safe AI Habits for Your Daily Professional Workflow",
+   "start": "2026-11-26T18:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/baig-academy-of-ai/events/317469690/",
+   "organizer": "Baig Academy of AI",
+   "description": "What you'll learn Start using AI safely today Get immediate steps to begin using AI in your daily tasks without putting your company data at risk. Master cognitive offloading Identify which tasks to give to AI and which need your own judgment, so you save time without losing your skills. Draw the line on data privacy Learn exactly which company and customer data is safe to put into AI tools, and what to keep out.…",
+   "image": "https://secure.meetupstatic.com/photos/event/1/6/3/0/highres_537185680.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "f24e4ffa62",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "In Charge of AI Transformation in Your SDLC? Open Q&A for Engineering Leaders",
@@ -969,7 +1012,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -1028,7 +1071,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-17T18:25:13.827Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI Awards 2026",
@@ -1081,7 +1124,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-16T19:29:44.121Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Agentic Development",
@@ -1105,7 +1148,24 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
+  },
+  {
+   "title": "AI Fórum: Od výzkumu k řešením pro průmysl",
+   "start": "2026-12-03T08:30:00+01:00",
+   "end": "2026-12-03T16:00:00+01:00",
+   "allDay": false,
+   "online": false,
+   "city": "Praha",
+   "venue": "Modrá posluchárna, CIIRC ČVUT, Jugoslávských partyzánů 1580/3",
+   "type": "konference",
+   "url": "https://www.brno.ai/en/events",
+   "description": "Celodenní fórum v CIIRC ČVUT o tom, jak převést výzkum AI do průmyslových řešení. Odkaz vede na kalendář akcí brno.ai.",
+   "source": "AI hledání",
+   "id": "9bbb72b93e",
+   "region": "praha",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI jam #2 (ReactGirls & Sky)",
@@ -1118,7 +1178,7 @@
    "type": "meetup",
    "url": "https://www.meetup.com/reactgirls/events/316938596/",
    "organizer": "ReactGirls",
-   "description": "Pořádáme druhý AI jam komunity ReactGirls! Kdy: 3. 12. od 18h Kde: Kanceláře Sky Jazyk: CZ Save the date! Makáme na tom a další informace o AI jamu 2 najdeš na www.reactgirls.com co nejdříve. 🤩 Přihlašování bude probíhat skrz formulář na webu. Sleduj naše sociální sítě, kde budeme spuštění přihlašování oznamovat. 😊 Harmonogram akce: 18.00 otevíráme Chceš přednášet na našem meetupu? Vyplň nám přihlášku, kterou…",
+   "description": "Pořádáme druhý AI jam komunity ReactGirls! 🗓️ Kdy: 3\\. 12\\. od 18h 📍Kde: Sky Czech Republic, Praha 8 - Karlín 🇨🇿 Jazyk: CZ ℹ️ Přihlas se tady: https://forms.gle/qKmKAp2i7VHPMh8Z6 Přicházíme s pokračováním workshopu AI Jam, který se vám tak líbil. Here we go AI Jam 2. 👩‍💻 Na druhém AI Jamu si ukážeme, jak využít AI jako parťáka při vývoji a dostat z ní maximum. Tentokrát se zaměříme především na Claude a…",
    "price": {
     "free": true
    },
@@ -1127,7 +1187,27 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
+  },
+  {
+   "title": "AI Is Accelerating Software Delivery — But Who Is Governing It?",
+   "start": "2026-12-03T19:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/codenow/events/317479218/",
+   "organizer": "CodeNOW",
+   "description": "AI coding agents can now produce software at a speed that would have seemed extraordinary only recently. But accelerating the creation of software also accelerates everything surrounding it: changes, dependencies, deployments, risks and complexity. Enterprises therefore need their governance and delivery infrastructure to accelerate too. What we will cover The arrival of AI-assisted software delivery: how co-pilots,…",
+   "image": "https://secure.meetupstatic.com/photos/event/3/3/8/d/highres_537193197.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "6e781e2418",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI Legal Intro: jak používat AI naplno a bez právních rizik + networking",
@@ -1147,7 +1227,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
@@ -1167,7 +1247,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T17:07:59.134Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI Engineering for Experienced Developers: How to Build Apps on Top of LLMs",
@@ -1187,7 +1267,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-15T16:15:22.656Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI Engineering: How to Build Apps on Top of LLMs",
@@ -1262,7 +1342,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem modelu Jev",
@@ -1282,7 +1362,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "AI Makers / 02 — Product Strategy in a World of AI Labs",
@@ -1306,7 +1386,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Building Local and Serverless LLM Agents: airhacks.live",
@@ -1327,7 +1407,27 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
+  },
+  {
+   "title": "Shipping Reliable LLMs and the Rise of AI Engineering",
+   "start": "2026-12-15T15:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/berlin-datatalks-club/events/317267322/",
+   "organizer": "Berlin DataTalksClub Group",
+   "description": "​How to Turn Fragile AI Prototypes Into Customer Ready Systems - Louis-Francois Bouchard ​The transition from a fragile AI prototype to a robust production system requires a completely new set of engineering skills. Modern developers must master prompt engineering retrieval, augmented generation and agentic workflows to build reliable applications. This upcoming episode focuses entirely on the practical realities of…",
+   "image": "https://secure.meetupstatic.com/photos/event/b/7/3/f/highres_536566911.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "9932e45679",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "LLM-Assisted Legacy System Migration to Modern Java: airhacks.live",
@@ -1348,7 +1448,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-17T18:25:13.827Z"
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "Umělá inteligence pro začátečníky a běžné uživatele (webinář)",
@@ -1607,6 +1707,24 @@
    "lastSeen": "2026-11-15T12:39:57.325Z"
   },
   {
+   "title": "Marketing Festival 2027",
+   "start": "2027-04-20",
+   "end": "2027-04-21",
+   "allDay": true,
+   "online": false,
+   "city": "Brno",
+   "venue": "Janáčkovo divadlo",
+   "type": "konference",
+   "url": "https://www.marketingfestival.cz/en",
+   "organizer": "Marketing Festival",
+   "description": "Mezinárodní marketingová konference, jejíž ročník 2027 se výrazně věnuje dopadu AI na marketing a agenturní práci.",
+   "source": "AI hledání",
+   "id": "1069e6ac6b",
+   "region": "cz",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
+  },
+  {
    "title": "V4AIR – AI meetup pro výzkumníky",
    "start": "2027-04-28",
    "end": "2027-04-30",
@@ -1646,6 +1764,24 @@
    "region": "praha",
    "firstSeen": "2026-11-10T16:00:50.338Z",
    "lastSeen": "2026-11-10T16:00:50.338Z"
+  },
+  {
+   "title": "ICBMPT 2027 – International Conference on Building Materials, Products and Technologies",
+   "start": "2027-05-06",
+   "end": "2027-05-07",
+   "allDay": true,
+   "online": false,
+   "city": "Brno",
+   "venue": "Hotel Continental Brno, Kounicova 680/6",
+   "type": "konference",
+   "url": "https://www.icbmpt.com/onepage/",
+   "description": "Odborná konference, jejíž hlavní téma pro rok 2027 je využití umělé inteligence ve výzkumu a vývoji stavebních materiálů a technologií.",
+   "deadline": "2027-04-15",
+   "source": "AI hledání",
+   "id": "48d6c83013",
+   "region": "cz",
+   "firstSeen": "2026-11-18T13:50:42.633Z",
+   "lastSeen": "2026-11-18T13:50:42.633Z"
   },
   {
    "title": "ODSC AI East 2027 Virtual",
