@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:11cbfdbbb5@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Hackathon 2026: Umělá inteligence a její využití v chytrých
@@ -25,7 +25,7 @@ URL:https://www.olkraj.cz/aktuality-clanku/hackathon-2026-se-letos-vrha-n
 END:VEVENT
 BEGIN:VEVENT
 UID:27ee9fb507@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:TechMeetup Ostrava 2026
@@ -37,7 +37,7 @@ URL:https://www.ostravalove.cz/techmeetup-ostrava-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3f2d60be@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Kurz Vibe Coding
@@ -49,8 +49,39 @@ DESCRIPTION:Chcete si vytvořit vlastní nástroj\, ale neumíte programo
 URL:https://www.eventbrite.com/e/kurz-vibe-coding-tickets-2004702730833
 END:VEVENT
 BEGIN:VEVENT
+UID:d11ff83059@meetupradar
+DTSTAMP:20261119T142200Z
+DTSTART:20261125T163000Z
+DTEND:20261125T183000Z
+SUMMARY:MeetUpdate Ostrava #34: The Agent Era
+LOCATION:Clubco\, 28. října 3346/91\, 702 00 Moravská Ostrava a Přív
+ oz\, Czechia
+DESCRIPTION:Upozornění\\: Vstupenka na meetup stojí symbolických 100 
+ Kč. Zaregistrujte se přímo na webu: https://ostrava.meetupdate.cz/\\ 
+ Práce programátora dlouho znamenala hlavně psát kód. Teď ho píše
+  agent a vy se můžete pustit do věcí\, do kterých se dříve nevypl
+ atilo investovat čas. Role vývojáře se mění a nikdo zatím přesn
+ ě neví\, kam se posune. Víme ale\, kde jsme dnes a co je v době AI a
+ gentů důležité. . Zdeněk Hásek a Filip…\n\nhttps://www.meetup.co
+ m/meetupdate-ostrava/events/317496720/
+URL:https://www.meetup.com/meetupdate-ostrava/events/317496720/
+END:VEVENT
+BEGIN:VEVENT
+UID:9297866061@meetupradar
+DTSTAMP:20261119T142200Z
+DTSTART:20261126T080000Z
+DTEND:20261126T160000Z
+SUMMARY:Vibecoding festival Ostrava II
+LOCATION:IT4Innovations\, VŠB-TU Ostrava\, Ostrava
+DESCRIPTION:Celodenní festival o vibecodingu a AI engineeringu v AI Fact
+ ory hubu IT4Innovations. Program má několik úrovní\, od podnikatelů
+  po seniorní vývojáře.\n\nhttps://www.it4i.cz/akce/odborne-akce/vibe
+ coding-festival-ii
+URL:https://www.it4i.cz/akce/odborne-akce/vibecoding-festival-ii
+END:VEVENT
+BEGIN:VEVENT
 UID:176d3a6d72@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl
@@ -65,7 +96,7 @@ URL:https://www.eventbrite.co.uk/e/google-v-technickem-seo-odpusti-temer-
 END:VEVENT
 BEGIN:VEVENT
 UID:22f5bcd5eb@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:AI Awards 2026
@@ -76,7 +107,7 @@ URL:https://prg.ai/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d807d9ca7@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART:20270113T080000Z
 DTEND:20270113T143000Z
 SUMMARY:AI konference eBRÁNA
@@ -89,7 +120,7 @@ URL:https://ebrana.cz/ai-konference
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f97ed79d@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART:20270121T163000Z
 DTEND:20270121T193000Z
 SUMMARY:AI Coding Dojo: AI harness
@@ -101,7 +132,7 @@ URL:https://www.brno.ai/en/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d89d02e9e2@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270129
 SUMMARY:ROBOTY 2027
@@ -113,7 +144,7 @@ URL:https://konference-roboty.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd358e689@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Digitální Česko 2027
@@ -124,7 +155,7 @@ URL:https://www.digitalni-cesko.eu/en
 END:VEVENT
 BEGIN:VEVENT
 UID:ecaf153c8e@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270419
 SUMMARY:Spring School of AI 2027
@@ -136,7 +167,7 @@ URL:https://springai.ktiml.mff.cuni.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:1069e6ac6b@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270422
 SUMMARY:Marketing Festival 2027
@@ -148,7 +179,7 @@ URL:https://www.marketingfestival.cz/en
 END:VEVENT
 BEGIN:VEVENT
 UID:1df7be923e@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:V4AIR – AI meetup pro výzkumníky
@@ -161,7 +192,7 @@ URL:https://v4air.eu/
 END:VEVENT
 BEGIN:VEVENT
 UID:48d6c83013@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
 SUMMARY:ICBMPT 2027 – International Conference on Building Materials\, 
@@ -174,7 +205,7 @@ URL:https://www.icbmpt.com/onepage/
 END:VEVENT
 BEGIN:VEVENT
 UID:a361ad876b@meetupradar
-DTSTAMP:20261118T175700Z
+DTSTAMP:20261119T142200Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270515
 SUMMARY:AI ve veřejné správě 2027 (4. ročník)
