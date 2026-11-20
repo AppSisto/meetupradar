@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:e6e8be9c43@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261119T080000Z
 DTEND:20261119T180000Z
 SUMMARY:Informace\, inteligence\, čas rozhodnutí (2. ročník)
@@ -19,76 +19,8 @@ DESCRIPTION:Odborná konference o suverenitě a odolnosti státu v éře
 URL:https://d2bm5ols8fc0nw.cloudfront.net/
 END:VEVENT
 BEGIN:VEVENT
-UID:e83970a4ea@meetupradar
-DTSTAMP:20261120T135900Z
-DTSTART:20261119T160000Z
-DTEND:20261119T180000Z
-SUMMARY:AI ROI by Business Unit: FinOps for AI Platforms
-LOCATION:Online
-DESCRIPTION:Every business unit wants more AI. Finance wants to know what
-  each use case costs and what it returns. When LLM spend arrives as one 
- shared bill\, neither question has a clear answer. This webinar shows ho
- w to tie AI consumption to the teams and use cases driving it. With that
-  view\, leaders can fund what works and rethink what doesn't. We'll walk
-  through how Kong AI Gateway applies team-level token quotas and…\n\nh
- ttps://www.meetup.com/kong-vienna/events/317360650/
-URL:https://www.meetup.com/kong-vienna/events/317360650/
-END:VEVENT
-BEGIN:VEVENT
-UID:d95d77b0b3@meetupradar
-DTSTAMP:20261120T135900Z
-DTSTART:20261119T170000Z
-DTEND:20261119T190000Z
-SUMMARY:Build AI Agents That Run Your Daily Operations
-LOCATION:Online
-DESCRIPTION:What you'll learn Automating daily workflows Turn a repeatabl
- e daily process into an AI workflow that handles each step with less man
- ual intervention. Schedule AI agents to run tasks in the background Sche
- dule AI workflows to run in the background\, handling routine tasks whil
- e you focus on higher-value work. Put AI agents to work across your dail
- y operations Build AI agents that work with your calendar\, meetings\,
- …\n\nhttps://www.meetup.com/baig-academy-of-ai/events/317187066/
-URL:https://www.meetup.com/baig-academy-of-ai/events/317187066/
-END:VEVENT
-BEGIN:VEVENT
-UID:e2a8957855@meetupradar
-DTSTAMP:20261120T135900Z
-DTSTART:20261119T170000Z
-DTEND:20261119T190000Z
-SUMMARY:Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data
-LOCATION:Online
-DESCRIPTION:This workshop is a hands-on tour of what actually breaks when
-  you load real LeRobot datasets\, and how Voxel51's native LeRobot suppo
- rt in FiftyOne catches it. Date\, Time and Location Nov 19\, 2026 9:00 A
- M - 10:00 AM PST Online. Register for the Zoom! Robot learning data does
- n't look like the data that trains most vision-language models. It's tem
- poral\, low-dimensional in the parts that matter most\,…\n\nhttps://ww
- w.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/even
- ts/316617463/
-URL:https://www.meetup.com/munchen-ai-machine-learning-and-computer-visio
- n-meetup/events/316617463/
-END:VEVENT
-BEGIN:VEVENT
-UID:b85719d15f@meetupradar
-DTSTAMP:20261120T135900Z
-DTSTART:20261119T170000Z
-DTEND:20261119T190000Z
-SUMMARY:ReactGirls & Active24 meetup
-LOCATION:Transcarent Technologies s.r.o.\, Rohanské nábř. 717/4\, 186 
- 00 Praha 8-Karlín\, Czechia
-DESCRIPTION:Pražský frontendový meetup komunity ReactGirls. Kdy: 19\\.
-  11\\. od 18h Kde: Transcarent Technologies s.r.o.\, Rohanské nábřež
- í 717/4\, Praha 8 - Karlín Jazyk: CZ Opět se na vás těšíme na dal
- ším podzimním meetupu\, který jsme si pro vás připravili ve spolup
- ráci s Active24! Tentokrát se vidíme v prostorách Transcarent a ček
- ají na nás 3 přednášky ze světa frontendu\, AI a vývoje. Harmonog
- ram akce: 18.00 otevíráme 18:30…\n\nhttps://www.meetup.com/reactgirl
- s/events/316938358/
-URL:https://www.meetup.com/reactgirls/events/316938358/
-END:VEVENT
-BEGIN:VEVENT
 UID:66b20342d7@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
 SUMMARY:AI for Work: Build Your Own AI-Powered CRM
@@ -105,7 +37,7 @@ URL:https://www.meetup.com/berlin-data-science-odsc/events/317062260/
 END:VEVENT
 BEGIN:VEVENT
 UID:13b5f70a4c@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
 SUMMARY:Guardrails for AI Agents: Wanaku in Front of a Java Webshop API
@@ -121,7 +53,7 @@ URL:https://www.meetup.com/jug-oberpfalz/events/317429936/
 END:VEVENT
 BEGIN:VEVENT
 UID:11cbfdbbb5@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:Hackathon 2026: Umělá inteligence a její využití v chytrých
@@ -137,7 +69,7 @@ URL:https://www.olkraj.cz/aktuality-clanku/hackathon-2026-se-letos-vrha-n
 END:VEVENT
 BEGIN:VEVENT
 UID:27ee9fb507@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:TechMeetup Ostrava 2026
@@ -149,7 +81,7 @@ URL:https://www.ostravalove.cz/techmeetup-ostrava-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:acb93381fd@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261120T090000Z
 DTEND:20261120T110000Z
 SUMMARY:Marketingdaten mit AI nutzen || FREE Community Training
@@ -166,7 +98,7 @@ URL:https://www.meetup.com/analytics-pioneers-wien/events/317173380/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3f2d60be@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Kurz Vibe Coding
@@ -179,7 +111,7 @@ URL:https://www.eventbrite.com/e/kurz-vibe-coding-tickets-2004702730833
 END:VEVENT
 BEGIN:VEVENT
 UID:292f7716c3@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261125T113000Z
 DTEND:20261125T133000Z
 SUMMARY:AI Leadership: How to protect\, enable and connect your team
@@ -197,7 +129,7 @@ URL:https://www.meetup.com/love-your-team-leadership-skills-for-the-real-
 END:VEVENT
 BEGIN:VEVENT
 UID:9dbbbb3dbe@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SUMMARY:From Legacy System to Any Cloud Data Platform using AI Agents
@@ -213,7 +145,7 @@ URL:https://www.meetup.com/warsaw-enterprise-ai/events/317284202/
 END:VEVENT
 BEGIN:VEVENT
 UID:d11ff83059@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261125T163000Z
 DTEND:20261125T183000Z
 SUMMARY:MeetUpdate Ostrava #34: The Agent Era
@@ -231,7 +163,7 @@ URL:https://www.meetup.com/meetupdate-ostrava/events/317496720/
 END:VEVENT
 BEGIN:VEVENT
 UID:3435a6cf3f@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261125T170000Z
 DTEND:20261125T190000Z
 SUMMARY:REMOTE: TestData & AI - TestBustersNight November
@@ -243,7 +175,7 @@ URL:https://www.meetup.com/agile-test-automation-meetup-vienna/events/317
 END:VEVENT
 BEGIN:VEVENT
 UID:fd59b7a456@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261125T173000Z
 DTEND:20261125T193000Z
 SUMMARY:AGI kontrolovaná firma: Dark Factory
@@ -260,7 +192,7 @@ URL:https://www.meetup.com/reset-hard/events/316733193/
 END:VEVENT
 BEGIN:VEVENT
 UID:be1261c9c5@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
 SUMMARY:From Chatbots to Agents and Beyond: What's Next for AI?
@@ -278,7 +210,7 @@ URL:https://www.meetup.com/ai-builders-curious-minds-central-europe/event
 END:VEVENT
 BEGIN:VEVENT
 UID:e9764c7d57@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261126T080000Z
 DTEND:20261126T160000Z
 SUMMARY:Primetime for Big Data 2026
@@ -291,7 +223,7 @@ URL:https://www.primetimefor.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:9297866061@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261126T080000Z
 DTEND:20261126T160000Z
 SUMMARY:Vibecoding festival Ostrava II
@@ -304,7 +236,7 @@ URL:https://www.it4i.cz/akce/odborne-akce/vibecoding-festival-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:67f1403788@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261126T120000Z
 DTEND:20261126T140000Z
 SUMMARY:Hypeless AI #4: From Copilot to Collaboration with Johnny Hooyber
@@ -321,7 +253,7 @@ URL:https://www.meetup.com/hypeless-ai/events/317057543/
 END:VEVENT
 BEGIN:VEVENT
 UID:81bc14aaf0@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261126T160000Z
 DTEND:20261126T180000Z
 SUMMARY:External combinators and shattering with permutations
@@ -337,7 +269,7 @@ URL:https://www.meetup.com/miton-times/events/317267997/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2fbbd86ed@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261126T170000Z
 DTEND:20261126T190000Z
 SUMMARY:PyData Prague #37 - Trust the Age of Juniors
@@ -354,7 +286,7 @@ URL:https://www.meetup.com/pydata-prague/events/317314096/
 END:VEVENT
 BEGIN:VEVENT
 UID:f24e4ffa62@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261126T170000Z
 DTEND:20261126T190000Z
 SUMMARY:Safe AI Habits for Your Daily Professional Workflow
@@ -370,7 +302,7 @@ URL:https://www.meetup.com/baig-academy-of-ai/events/317469690/
 END:VEVENT
 BEGIN:VEVENT
 UID:5a71d95378@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261127T150000Z
 DTEND:20261127T170000Z
 SUMMARY:In Charge of AI Transformation in Your SDLC? Open Q&A for Enginee
@@ -389,7 +321,7 @@ URL:https://www.meetup.com/software-engineering-for-the-ai-era-by-max-pie
 END:VEVENT
 BEGIN:VEVENT
 UID:176d3a6d72@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl
@@ -404,7 +336,7 @@ URL:https://www.eventbrite.co.uk/e/google-v-technickem-seo-odpusti-temer-
 END:VEVENT
 BEGIN:VEVENT
 UID:b59a44b27a@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261201T160000Z
 DTEND:20261201T200000Z
 SUMMARY:AI 2027 Conference (Smashing Magazine)
@@ -417,7 +349,7 @@ URL:https://smashingconf.com/ai-2027-conference
 END:VEVENT
 BEGIN:VEVENT
 UID:9b68d75f2a@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261201T160000Z
 DTEND:20261201T180000Z
 SUMMARY:Bob TV Episode 4: Why generic AI fails at mainframe scale - and w
@@ -434,7 +366,7 @@ URL:https://www.meetup.com/ibm-developer-prague/events/317470613/
 END:VEVENT
 BEGIN:VEVENT
 UID:2b52872908@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261201T170000Z
 DTEND:20261201T190000Z
 SUMMARY:[REMOTE] AI Agents in Our Daily Work – Where Do We Still Take O
@@ -451,7 +383,7 @@ URL:https://www.meetup.com/dotnet-austria/events/317503827/
 END:VEVENT
 BEGIN:VEVENT
 UID:22f5bcd5eb@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:AI Awards 2026
@@ -462,7 +394,7 @@ URL:https://prg.ai/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4f02b5896@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:Power Conference 2026
@@ -475,7 +407,7 @@ URL:https://www.powerconference.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:703b1b082f@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261202T150000Z
 DTEND:20261202T170000Z
 SUMMARY:Tokenization was the Beginning. Agentic Capital Markets is the en
@@ -492,7 +424,7 @@ URL:https://www.meetup.com/lfdt-czechia/events/317457158/
 END:VEVENT
 BEGIN:VEVENT
 UID:8452189ea8@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261202T170000Z
 DTEND:20261202T210000Z
 SUMMARY:Agentic Development
@@ -505,7 +437,7 @@ URL:https://lu.ma/2eb30aiv
 END:VEVENT
 BEGIN:VEVENT
 UID:9bbb72b93e@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261203T073000Z
 DTEND:20261203T150000Z
 SUMMARY:AI Fórum: Od výzkumu k řešením pro průmysl
@@ -518,7 +450,7 @@ URL:https://www.brno.ai/en/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e713489a73@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261203T170000Z
 DTEND:20261203T190000Z
 SUMMARY:AI jam #2 (ReactGirls & Sky)
@@ -535,7 +467,7 @@ URL:https://www.meetup.com/reactgirls/events/316938596/
 END:VEVENT
 BEGIN:VEVENT
 UID:6e781e2418@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
 SUMMARY:AI Is Accelerating Software Delivery — But Who Is Governing It?
@@ -551,7 +483,7 @@ URL:https://www.meetup.com/codenow/events/317479218/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a4f88401e@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261204T080000Z
 DTEND:20261204T100000Z
 SUMMARY:AI Legal Intro: jak používat AI naplno a bez právních rizik +
@@ -570,7 +502,7 @@ URL:https://www.meetup.com/grow-every-day-prague-career-tech-community/ev
 END:VEVENT
 BEGIN:VEVENT
 UID:6419581f51@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261204T170000Z
 DTEND:20261204T190000Z
 SUMMARY:Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Ge
@@ -587,7 +519,7 @@ URL:https://www.meetup.com/vienna-ai/events/317411628/
 END:VEVENT
 BEGIN:VEVENT
 UID:a05067ebfa@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261207T160000Z
 DTEND:20261207T180000Z
 SUMMARY:AI Engineering for Experienced Developers: How to Build Apps on T
@@ -604,7 +536,7 @@ URL:https://www.meetup.com/berlin-datatalks-club/events/317427758/
 END:VEVENT
 BEGIN:VEVENT
 UID:01b07a218d@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261207T160000Z
 DTEND:20261207T180000Z
 SUMMARY:AI Engineering: How to Build Apps on Top of LLMs
@@ -620,7 +552,7 @@ URL:https://www.meetup.com/berlin-datatalks-club/events/317427758/
 END:VEVENT
 BEGIN:VEVENT
 UID:7a75a6d6f2@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:AI Suverenita 2026
@@ -633,7 +565,7 @@ URL:https://vikendo.cz/events/ai-suverenita-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:347878e8ce@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261211
 SUMMARY:PyData Global 2026
@@ -646,7 +578,7 @@ URL:https://pydata.org/global2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:c874bf84b3@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
 SUMMARY:AI Webinar (Diagrid and AWS) - Durable Execution for Agents
@@ -662,7 +594,7 @@ URL:https://www.meetup.com/vienna-ai/events/317414179/
 END:VEVENT
 BEGIN:VEVENT
 UID:39d421c8b3@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261210T160000Z
 DTEND:20261210T180000Z
 SUMMARY:[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem mod
@@ -679,8 +611,26 @@ DESCRIPTION:🟢 Obowiązkowa bezpłatna rejestracja: https://stacja.it/p
 URL:https://www.meetup.com/stacja-it-krakow/events/317267984/
 END:VEVENT
 BEGIN:VEVENT
+UID:65fd37a113@meetupradar
+DTSTAMP:20261120T174300Z
+DTSTART:20261210T160000Z
+DTEND:20261210T180000Z
+SUMMARY:AI w ofertach\, mailach i dokumentach – warsztat bez programowa
+ nia
+LOCATION:Online
+DESCRIPTION:🟢 Obowiązkowa rejestracja i zakup biletów: https://stacj
+ a.it/produkt/ai-w-ofertach-mailach-i-dokumentach-warsztat-bez-programowa
+ nia/ 🟢 Warsztat wieczorny w godz. 17:00-20:00 (3 h) 🟢 W firmie mn
+ óstwo czasu schodzi na odpisywanie na zapytania\, oferty i papiery. Z A
+ I da się to robić dużo szybciej. Trzeba mu tylko dać dobre dane i pr
+ zeczytać\, co napisało\, zanim wyślesz to klientowi. Na warsztacie bi
+ erzesz przykładowe…\n\nhttps://www.meetup.com/stacja-it-krakow/events
+ /317479194/
+URL:https://www.meetup.com/stacja-it-krakow/events/317479194/
+END:VEVENT
+BEGIN:VEVENT
 UID:2d492de7bb@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261210T170000Z
 DTEND:20261210T200000Z
 SUMMARY:AI Makers / 02 — Product Strategy in a World of AI Labs
@@ -693,7 +643,7 @@ URL:https://lu.ma/4i0m8d0u
 END:VEVENT
 BEGIN:VEVENT
 UID:10d9ebd42d@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261217
 SUMMARY:Umělá inteligence ve vaší firmě: Dvoudenní praktický works
@@ -708,7 +658,7 @@ URL:https://www.datascript.cz/kurzy/ai/umela-inteligence-ve-vasi-firme-dv
 END:VEVENT
 BEGIN:VEVENT
 UID:eed363160d@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261215T090000Z
 DTEND:20261215T110000Z
 SUMMARY:Building Local and Serverless LLM Agents: airhacks.live
@@ -724,7 +674,7 @@ URL:https://www.meetup.com/airhacks/events/315455965/
 END:VEVENT
 BEGIN:VEVENT
 UID:9932e45679@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261215T140000Z
 DTEND:20261215T160000Z
 SUMMARY:Shipping Reliable LLMs and the Rise of AI Engineering
@@ -740,7 +690,7 @@ URL:https://www.meetup.com/berlin-datatalks-club/events/317267322/
 END:VEVENT
 BEGIN:VEVENT
 UID:8194a6f348@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20261217T090000Z
 DTEND:20261217T110000Z
 SUMMARY:LLM-Assisted Legacy System Migration to Modern Java: airhacks.liv
@@ -757,7 +707,7 @@ URL:https://www.meetup.com/airhacks/events/315526943/
 END:VEVENT
 BEGIN:VEVENT
 UID:0033346be9@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Umělá inteligence pro začátečníky a běžné uživatele (we
@@ -771,7 +721,7 @@ URL:https://www.integracentrum.cz/skoleni/webinare/umela-inteligence
 END:VEVENT
 BEGIN:VEVENT
 UID:6d807d9ca7@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20270113T080000Z
 DTEND:20270113T143000Z
 SUMMARY:AI konference eBRÁNA
@@ -784,7 +734,7 @@ URL:https://ebrana.cz/ai-konference
 END:VEVENT
 BEGIN:VEVENT
 UID:06e9df1a3c@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Kybernetická bezpečnost v době AI
@@ -796,7 +746,7 @@ URL:https://kbai.pef.czu.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f97ed79d@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20270121T163000Z
 DTEND:20270121T193000Z
 SUMMARY:AI Coding Dojo: AI harness
@@ -808,7 +758,7 @@ URL:https://www.brno.ai/en/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d89d02e9e2@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270129
 SUMMARY:ROBOTY 2027
@@ -820,7 +770,7 @@ URL:https://konference-roboty.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:725a793531@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:CIO Agenda 2027: Když stroje útočí
@@ -832,7 +782,7 @@ URL:https://www.cioagenda.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebc7bb63f9@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:HackerX - Prague (AI) - Employer Ticket - 2/11
@@ -845,7 +795,7 @@ URL:https://www.eventbrite.com/e/hackerx-prague-ai-employer-ticket-211-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:023d2c78cd@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270224
 SUMMARY:AAAI-27 – AAAI Conference on Artificial Intelligence
@@ -858,7 +808,7 @@ URL:https://aaai.org/conference/aaai/aaai-27/aaai-27-registration/
 END:VEVENT
 BEGIN:VEVENT
 UID:f01c1eb974@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20270218T080000Z
 DTEND:20270218T140000Z
 SUMMARY:IT ve zdravotnictví
@@ -870,7 +820,7 @@ URL:https://zdravotnictvi.konference.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:df31017f25@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20270227T170000Z
 DTEND:20270228T000000Z
 SUMMARY:Hack-Nation Global AI Hackathon 8
@@ -882,7 +832,7 @@ URL:https://hack-nation.ai/start
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd358e689@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Digitální Česko 2027
@@ -893,7 +843,7 @@ URL:https://www.digitalni-cesko.eu/en
 END:VEVENT
 BEGIN:VEVENT
 UID:9d708f321f@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:HIPTHER AI Summit Prague 2027
@@ -905,7 +855,7 @@ URL:https://hipther.com/events/prague/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a17a55c43@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART:20270330T160000Z
 DTEND:20270331T220000Z
 SUMMARY:Agentic AI Conference 2027
@@ -918,7 +868,7 @@ URL:https://datasciencedojo.com/agentic-ai-conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:b6292f41b6@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270404
 SUMMARY:Hackathon veřejné správy ver. 8.1
@@ -931,7 +881,7 @@ URL:https://www.hackujstat.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:28a0688f31@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:HackerX - Prague (AI) - Employer Ticket - 4/8
@@ -944,7 +894,7 @@ URL:https://www.eventbrite.com/e/hackerx-prague-ai-employer-ticket-48-tic
 END:VEVENT
 BEGIN:VEVENT
 UID:ecaf153c8e@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270419
 SUMMARY:Spring School of AI 2027
@@ -956,7 +906,7 @@ URL:https://springai.ktiml.mff.cuni.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:1069e6ac6b@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270422
 SUMMARY:Marketing Festival 2027
@@ -968,7 +918,7 @@ URL:https://www.marketingfestival.cz/en
 END:VEVENT
 BEGIN:VEVENT
 UID:1df7be923e@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:V4AIR – AI meetup pro výzkumníky
@@ -981,7 +931,7 @@ URL:https://v4air.eu/
 END:VEVENT
 BEGIN:VEVENT
 UID:19805d84b5@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270506
 SUMMARY:Machine Learning Prague 2027
@@ -994,7 +944,7 @@ URL:https://www.mlprague.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:48d6c83013@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
 SUMMARY:ICBMPT 2027 – International Conference on Building Materials\, 
@@ -1007,7 +957,7 @@ URL:https://www.icbmpt.com/onepage/
 END:VEVENT
 BEGIN:VEVENT
 UID:4fb9a52651@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270513
 SUMMARY:ODSC AI East 2027 Virtual
@@ -1020,7 +970,7 @@ URL:https://odsc.ai/east/virtual/
 END:VEVENT
 BEGIN:VEVENT
 UID:a361ad876b@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270515
 SUMMARY:AI ve veřejné správě 2027 (4. ročník)
@@ -1032,7 +982,7 @@ URL:https://aivs.kraj-jihocesky.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:703611f9e1@meetupradar
-DTSTAMP:20261120T135900Z
+DTSTAMP:20261120T174300Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270519
 SUMMARY:ISSS 2027 – eGovernment\, umělá inteligence a bezpečnost ve

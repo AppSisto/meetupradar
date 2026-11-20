@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T13:57:15.307Z",
+ "updatedAt": "2026-11-20T17:43:09.172Z",
  "aiAt": "2026-11-20T13:57:15.307Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 103
+   "count": 107
   },
   {
    "name": "Luma",
@@ -14,13 +14,9 @@
   },
   {
    "name": "Eventbrite",
-   "ok": true,
-   "count": 29
-  },
-  {
-   "name": "AI hledání",
-   "ok": true,
-   "count": 2
+   "ok": false,
+   "count": 0,
+   "error": "žádná stránka se nenačetla"
   }
  ],
  "events": [
@@ -845,7 +841,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "MeetUpdate Ostrava #34: The Agent Era",
@@ -868,7 +864,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-19T14:20:24.515Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "REMOTE: TestData & AI - TestBustersNight November",
@@ -910,7 +906,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "From Chatbots to Agents and Beyond: What's Next for AI?",
@@ -930,7 +926,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-19T14:20:24.515Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Primetime for Big Data 2026",
@@ -986,7 +982,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "External combinators and shattering with permutations",
@@ -1009,7 +1005,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T14:51:37.845Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "PyData Prague #37 - Trust the Age of Juniors",
@@ -1032,7 +1028,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Safe AI Habits for Your Daily Professional Workflow",
@@ -1052,7 +1048,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-18T13:50:42.633Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "In Charge of AI Transformation in Your SDLC? Open Q&A for Engineering Leaders",
@@ -1072,7 +1068,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Google v technickém SEO odpustí téměř všechno. ChatGPT, Claude… ne",
@@ -1131,7 +1127,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-17T18:25:13.827Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "[REMOTE] AI Agents in Our Daily Work – Where Do We Still Take Over?",
@@ -1151,7 +1147,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-20T13:57:15.307Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "AI Awards 2026",
@@ -1204,7 +1200,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-16T19:29:44.121Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Agentic Development",
@@ -1228,7 +1224,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "AI Fórum: Od výzkumu k řešením pro průmysl",
@@ -1267,7 +1263,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "AI Is Accelerating Software Delivery — But Who Is Governing It?",
@@ -1287,7 +1283,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-18T13:50:42.633Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "AI Legal Intro: jak používat AI naplno a bez právních rizik + networking",
@@ -1307,7 +1303,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
@@ -1327,7 +1323,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T17:07:59.134Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "AI Engineering for Experienced Developers: How to Build Apps on Top of LLMs",
@@ -1422,7 +1418,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem modelu Jev",
@@ -1442,7 +1438,27 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
+  },
+  {
+   "title": "AI w ofertach, mailach i dokumentach – warsztat bez programowania",
+   "start": "2026-12-10T17:00:00+01:00",
+   "online": true,
+   "hybrid": false,
+   "type": "meetup",
+   "url": "https://www.meetup.com/stacja-it-krakow/events/317479194/",
+   "organizer": "Stacja IT Kraków",
+   "description": "🟢 Obowiązkowa rejestracja i zakup biletów: https://stacja.it/produkt/ai-w-ofertach-mailach-i-dokumentach-warsztat-bez-programowania/ 🟢 Warsztat wieczorny w godz. 17:00-20:00 (3 h) 🟢 W firmie mnóstwo czasu schodzi na odpisywanie na zapytania, oferty i papiery. Z AI da się to robić dużo szybciej. Trzeba mu tylko dać dobre dane i przeczytać, co napisało, zanim wyślesz to klientowi. Na warsztacie bierzesz przykładowe…",
+   "image": "https://secure.meetupstatic.com/photos/event/3/3/6/2/highres_537193154.jpeg",
+   "price": {
+    "free": true
+   },
+   "source": "Meetup",
+   "id": "65fd37a113",
+   "allDay": false,
+   "region": "online",
+   "firstSeen": "2026-11-20T17:43:09.172Z",
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "AI Makers / 02 — Product Strategy in a World of AI Labs",
@@ -1466,7 +1482,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Umělá inteligence ve vaší firmě: Dvoudenní praktický workshop ke zvyšování AI kompetencí",
@@ -1507,7 +1523,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Shipping Reliable LLMs and the Rise of AI Engineering",
@@ -1527,7 +1543,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-18T13:50:42.633Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "LLM-Assisted Legacy System Migration to Modern Java: airhacks.live",
@@ -1548,7 +1564,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-20T13:57:15.307Z"
+   "lastSeen": "2026-11-20T17:43:09.172Z"
   },
   {
    "title": "Umělá inteligence pro začátečníky a běžné uživatele (webinář)",
