@@ -8,26 +8,8 @@ X-WR-TIMEZONE:Europe/Prague
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:d11ff83059@meetupradar
-DTSTAMP:20261126T150400Z
-DTSTART:20261125T163000Z
-DTEND:20261125T183000Z
-SUMMARY:MeetUpdate Ostrava #34: The Agent Era
-LOCATION:Clubco\, 28. října 3346/91\, 702 00 Moravská Ostrava a Přív
- oz\, Czechia
-DESCRIPTION:Upozornění\\: Vstupenka na meetup stojí symbolických 100 
- Kč. Zaregistrujte se přímo na webu: https://ostrava.meetupdate.cz/\\ 
- Práce programátora dlouho znamenala hlavně psát kód. Teď ho píše
-  agent a vy se můžete pustit do věcí\, do kterých se dříve nevypl
- atilo investovat čas. Role vývojáře se mění a nikdo zatím přesn
- ě neví\, kam se posune. Víme ale\, kde jsme dnes a co je v době AI a
- gentů důležité. . Zdeněk Hásek a Filip…\n\nhttps://www.meetup.co
- m/meetupdate-ostrava/events/317496720/
-URL:https://www.meetup.com/meetupdate-ostrava/events/317496720/
-END:VEVENT
-BEGIN:VEVENT
 UID:9297866061@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART:20261126T080000Z
 DTEND:20261126T160000Z
 SUMMARY:Vibecoding festival Ostrava II
@@ -40,7 +22,7 @@ URL:https://www.it4i.cz/akce/odborne-akce/vibecoding-festival-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:176d3a6d72@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Google v technickém SEO odpustí téměř všechno. ChatGPT\, Cl
@@ -55,7 +37,7 @@ URL:https://www.eventbrite.co.uk/e/google-v-technickem-seo-odpusti-temer-
 END:VEVENT
 BEGIN:VEVENT
 UID:22f5bcd5eb@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:AI Awards 2026
@@ -66,7 +48,7 @@ URL:https://prg.ai/
 END:VEVENT
 BEGIN:VEVENT
 UID:82337c69a4@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:AI Masterclass Roadshow 2026: Budoucnost AI kontaktního centra 
@@ -78,8 +60,26 @@ DESCRIPTION:Závěrečný díl čtyřdílného workshopu o nasazení AI v
 URL:https://www.ipex.cz/produkty/ai-masterclass
 END:VEVENT
 BEGIN:VEVENT
+UID:63d0218693@meetupradar
+DTSTAMP:20261126T185700Z
+DTSTART:20261209T163000Z
+DTEND:20261209T183000Z
+SUMMARY:TechMeetup #45: Product & Business
+LOCATION:Impact Hub Ostrava\, Sokolská tř. 1263/24\, 702 00 Moravská O
+ strava a Přívoz\, Czechia
+DESCRIPTION:​AI dneska napíše kód rychleji než kdokoliv z nás. Jen
+ že co to znamená pro firmu? Kdo pak rozhoduje\, co se bude stavět\, a
+  jak poznat\, jestli na tom všem firma opravdu vydělává\, nebo jen p
+ álí tokeny? ​Prosincový TechMeetup se proto výjimečně dívá na 
+ druhou stranu řeky – na produkt a byznys. Přijďte si poslechnout\, 
+ jak AI mění role ve firmách a jak ji měřit jinak než počtem vygen
+ erovaných řádků. A pak to s námi u piva…\n\nhttps://www.meetup.co
+ m/techmeetupostrava/events/317594463/
+URL:https://www.meetup.com/techmeetupostrava/events/317594463/
+END:VEVENT
+BEGIN:VEVENT
 UID:10d9ebd42d@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261217
 SUMMARY:Umělá inteligence ve vaší firmě: Dvoudenní praktický works
@@ -94,7 +94,7 @@ URL:https://www.datascript.cz/kurzy/ai/umela-inteligence-ve-vasi-firme-dv
 END:VEVENT
 BEGIN:VEVENT
 UID:6d807d9ca7@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART:20270113T080000Z
 DTEND:20270113T143000Z
 SUMMARY:AI konference eBRÁNA
@@ -107,7 +107,7 @@ URL:https://ebrana.cz/ai-konference
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f97ed79d@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART:20270121T163000Z
 DTEND:20270121T193000Z
 SUMMARY:AI Coding Dojo: AI harness
@@ -119,7 +119,7 @@ URL:https://www.brno.ai/en/events
 END:VEVENT
 BEGIN:VEVENT
 UID:4ccadefa38@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:AI Walk and Talk – 4. setkání na Pustevnách
@@ -131,7 +131,7 @@ URL:https://aiwalkandtalk.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:d89d02e9e2@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270129
 SUMMARY:ROBOTY 2027
@@ -143,7 +143,7 @@ URL:https://konference-roboty.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac2a250385@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270305
 SUMMARY:GIS Ostrava 2027
@@ -157,7 +157,7 @@ URL:https://gisak.vsb.cz/gisostrava/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd358e689@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Digitální Česko 2027
@@ -168,7 +168,7 @@ URL:https://www.digitalni-cesko.eu/en
 END:VEVENT
 BEGIN:VEVENT
 UID:66460579f8@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 SUMMARY:#AimtecHackathon 2027
@@ -180,7 +180,7 @@ URL:https://www.aimtechackathon.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecaf153c8e@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270419
 SUMMARY:Spring School of AI 2027
@@ -192,7 +192,7 @@ URL:https://springai.ktiml.mff.cuni.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:1069e6ac6b@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270422
 SUMMARY:Marketing Festival 2027
@@ -204,7 +204,7 @@ URL:https://www.marketingfestival.cz/en
 END:VEVENT
 BEGIN:VEVENT
 UID:1df7be923e@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270501
 SUMMARY:V4AIR – AI meetup pro výzkumníky
@@ -217,7 +217,7 @@ URL:https://v4air.eu/
 END:VEVENT
 BEGIN:VEVENT
 UID:48d6c83013@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
 SUMMARY:ICBMPT 2027 – International Conference on Building Materials\, 
@@ -230,7 +230,7 @@ URL:https://www.icbmpt.com/onepage/
 END:VEVENT
 BEGIN:VEVENT
 UID:a361ad876b@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270515
 SUMMARY:AI ve veřejné správě 2027 (4. ročník)
@@ -242,7 +242,7 @@ URL:https://aivs.kraj-jihocesky.cz/
 END:VEVENT
 BEGIN:VEVENT
 UID:703611f9e1@meetupradar
-DTSTAMP:20261126T150400Z
+DTSTAMP:20261126T185700Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270519
 SUMMARY:ISSS 2027 – eGovernment\, umělá inteligence a bezpečnost ve
