@@ -1,22 +1,28 @@
 {
- "updatedAt": "2026-11-27T18:49:49.643Z",
+ "updatedAt": "2026-11-28T14:06:00.920Z",
  "aiAt": "2026-11-26T15:02:03.870Z",
  "sources": [
   {
    "name": "Meetup",
    "ok": true,
-   "count": 125
+   "count": 115
   },
   {
    "name": "Luma",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "name": "Eventbrite",
    "ok": false,
    "count": 0,
    "error": "žádná stránka se nenačetla"
+  },
+  {
+   "name": "AI hledání",
+   "ok": false,
+   "count": 0,
+   "error": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011ChVTNToqtUbfsD1U3Smr7\"}"
   }
  ],
  "events": [
@@ -1215,7 +1221,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-17T18:25:13.827Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "[REMOTE] AI Agents in Our Daily Work – Where Do We Still Take Over?",
@@ -1303,7 +1309,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-16T19:29:44.121Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Women in AI: Meetup #3",
@@ -1343,7 +1349,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-24T15:44:32.171Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Agentic Development",
@@ -1367,7 +1373,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Agentic AI for Software Testing with Enterprise Tools",
@@ -1387,7 +1393,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-26T15:02:03.870Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI Masterclass Roadshow 2026: Budoucnost AI kontaktního centra – strategie a vize",
@@ -1439,7 +1445,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-18T13:50:42.633Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI jam #2 (ReactGirls & Sky)",
@@ -1461,7 +1467,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-14T21:19:28.334Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Build a weekly AI agent in Claude Cowork without coding",
@@ -1481,7 +1487,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-25T15:29:02.828Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI Legal Intro: jak používat AI naplno a bez právních rizik + networking",
@@ -1501,7 +1507,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Google AI Deep Dive (Ep 6) - Platform Engineering on GKE using Gemini",
@@ -1521,7 +1527,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-13T17:07:59.134Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI Engineering for Experienced Developers: How to Build Apps on Top of LLMs",
@@ -1615,7 +1621,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-26T15:02:03.870Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "PyData Global 2026",
@@ -1651,7 +1657,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-21T22:08:09.081Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "TechMeetup #45: Product & Business",
@@ -1674,7 +1680,7 @@
    "allDay": false,
    "region": "cz",
    "firstSeen": "2026-11-26T18:56:53.331Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Trustworthy AI in Customer Service",
@@ -1694,7 +1700,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-27T18:49:49.643Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI Webinar (Diagrid and AWS) - Durable Execution for Agents",
@@ -1714,7 +1720,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Claude Code, Playwright i agenty AI w codziennej pracy testera 🎤",
@@ -1734,7 +1740,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-27T18:49:49.643Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Od kosztu defektu do ROI agentów AI: Jak rozmawiać o jakości w 2027 roku? 🎤",
@@ -1754,7 +1760,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-27T18:49:49.643Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "[BEZPŁATNIE] Szybka i tania klasyfikacja AI z wykorzystaniem modelu Jev",
@@ -1774,7 +1780,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI w ofertach, mailach i dokumentach – warsztat bez programowania",
@@ -1794,7 +1800,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-20T17:43:09.172Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI Makers / 02 — Product Strategy in a World of AI Labs",
@@ -1818,7 +1824,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-11T12:39:03.678Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "XMAS AI Battle",
@@ -1843,7 +1849,7 @@
    "allDay": false,
    "region": "praha",
    "firstSeen": "2026-11-24T15:44:32.171Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Umělá inteligence ve vaší firmě: Dvoudenní praktický workshop ke zvyšování AI kompetencí",
@@ -1884,7 +1890,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-10T22:15:56.881Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Shipping Reliable LLMs and the Rise of AI Engineering",
@@ -1904,7 +1910,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-18T13:50:42.633Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "AI Engineering for Experienced Developers: How to Build Apps on Top of LLMs",
@@ -1924,7 +1930,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-23T21:11:58.908Z",
-   "lastSeen": "2026-11-25T19:07:08.561Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "GenAI Community – Codeforce Christmas Special 🎄 (Virtual)",
@@ -1944,7 +1950,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-25T15:29:02.828Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "LLM-Assisted Legacy System Migration to Modern Java: airhacks.live",
@@ -1965,7 +1971,7 @@
    "allDay": false,
    "region": "online",
    "firstSeen": "2026-11-14T12:05:07.547Z",
-   "lastSeen": "2026-11-27T18:49:49.643Z"
+   "lastSeen": "2026-11-28T14:06:00.920Z"
   },
   {
    "title": "Discovery – AI/ML in 5G (AI for Good)",
